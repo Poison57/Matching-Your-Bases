@@ -1,0 +1,12797 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12004, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_PixelRect:
+    serializedVersion: 2
+    x: 0
+    y: 43
+    width: 1920
+    height: 989
+  m_ShowMode: 4
+  m_Title: Inspector
+  m_RootView: {fileID: 8}
+  m_MinSize: {x: 875, y: 371}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_Maximized: 1
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: TestRunnerWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 961
+    y: 0
+    width: 485
+    height: 251
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+  m_Panes:
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 7}
+  - {fileID: 2}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 688
+    width: 1446
+    height: 251
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 92
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 11}
+  - {fileID: 5}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1920
+    height: 939
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 121
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1446
+    y: 0
+    width: 474
+    height: 939
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 16}
+  m_Panes:
+  - {fileID: 16}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 328
+    height: 688
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ConsoleWindow
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 961
+    height: 251
+  m_MinSize: {x: 101, y: 121}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 20}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 20}
+  m_Selected: 1
+  m_LastSelected: 0
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 9}
+  - {fileID: 4}
+  - {fileID: 10}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 989
+  m_MinSize: {x: 875, y: 300}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_UseTopView: 1
+  m_TopViewHeight: 30
+  m_UseBottomView: 1
+  m_BottomViewHeight: 20
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1920
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 969
+    width: 1920
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 12}
+  - {fileID: 3}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1446
+    height: 939
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 40
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 6}
+  - {fileID: 13}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1446
+    height: 688
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 41
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: SceneView
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 328
+    y: 0
+    width: 1118
+    height: 688
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13401, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Test Runner
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 961
+    y: 761
+    width: 483
+    height: 230
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_Spl:
+    ID: 130
+    splitterInitialOffset: 0
+    currentActiveSplitter: -1
+    realSizes:
+    - 120
+    - 40
+    relativeSizes:
+    - 0.75
+    - 0.25
+    minSizes:
+    - 32
+    - 32
+    maxSizes:
+    - 0
+    - 0
+    lastTotalSize: 160
+    splitSize: 6
+    xOffset: 0
+    m_Version: 1
+    oldRealSizes: 
+    oldMinSizes: 
+    oldMaxSizes: 
+    oldSplitSize: 0
+  m_TestTypeToolbarIndex: 0
+  m_PlayModeTestListGUI:
+    m_Window: {fileID: 14}
+    m_NewResultList:
+    - id: 1005
+      uniqueId: '[Matching your Bases][suite]'
+      name: Matching your Bases
+      fullName: Matching your Bases
+      resultStatus: 0
+      duration: 4.3113613
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    - id: 1004
+      uniqueId: '[Tests][C:/Users/owenb/Matching your Bases/Library/ScriptAssemblies/Tests.dll][suite]'
+      name: Tests.dll
+      fullName: C:/Users/owenb/Matching your Bases/Library/ScriptAssemblies/Tests.dll
+      resultStatus: 0
+      duration: 4.293869
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1000
+      parentUniqueId: '[Matching your Bases][suite]'
+    - id: 1001
+      uniqueId: Tests.dll/[Tests][BasesTests][suite]
+      name: BasesTests
+      fullName: BasesTests
+      resultStatus: 0
+      duration: 4.289838
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 1010
+      parentUniqueId: '[Tests][C:/Users/owenb/Matching your Bases/Library/ScriptAssemblies/Tests.dll][suite]'
+    - id: 1002
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._01BinaryTutorialAndBack]
+      name: _01BinaryTutorialAndBack
+      fullName: BasesTests._01BinaryTutorialAndBack
+      resultStatus: 1
+      duration: 4.3077555
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1003
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._02HexTutorialAndBack]
+      name: _02HexTutorialAndBack
+      fullName: BasesTests._02HexTutorialAndBack
+      resultStatus: 1
+      duration: 4.0952897
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1004
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._03BiHexTutorialAndBack]
+      name: _03BiHexTutorialAndBack
+      fullName: BasesTests._03BiHexTutorialAndBack
+      resultStatus: 1
+      duration: 4.071894
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1005
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._04GameTutorialAndBack]
+      name: _04GameTutorialAndBack
+      fullName: BasesTests._04GameTutorialAndBack
+      resultStatus: 1
+      duration: 4.0672183
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1006
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._05BinaryBeginAndBack]
+      name: _05BinaryBeginAndBack
+      fullName: BasesTests._05BinaryBeginAndBack
+      resultStatus: 1
+      duration: 4.0934644
+      messages: 
+      output: 'S1:binary_7 (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_6
+        (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_10
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1007
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._06HexBeginAndBack]
+      name: _06HexBeginAndBack
+      fullName: BasesTests._06HexBeginAndBack
+      resultStatus: 1
+      duration: 4.1137223
+      messages: 
+      output: 'S1:hexadecimal_16 (UnityEngine.Sprite)
+
+        S1:decimal_12 (UnityEngine.Sprite)
+
+        S1:hexadecimal_15
+        (UnityEngine.Sprite)
+
+        S1:decimal_13 (UnityEngine.Sprite)
+
+        S1:hexadecimal_18
+        (UnityEngine.Sprite)
+
+        S1:decimal_15 (UnityEngine.Sprite)
+
+        S1:hexadecimal_14
+        (UnityEngine.Sprite)
+
+        S1:decimal_16 (UnityEngine.Sprite)
+
+        S1:hexadecimal_19
+        (UnityEngine.Sprite)
+
+        S1:decimal_17 (UnityEngine.Sprite)
+
+        S1:hexadecimal_17
+        (UnityEngine.Sprite)
+
+        S1:decimal_20 (UnityEngine.Sprite)
+
+        S1:hexadecimal_13
+        (UnityEngine.Sprite)
+
+        S1:decimal_14 (UnityEngine.Sprite)
+
+        S1:hexadecimal_20
+        (UnityEngine.Sprite)
+
+        S1:decimal_11 (UnityEngine.Sprite)
+
+        S1:hexadecimal_12
+        (UnityEngine.Sprite)
+
+        S1:decimal_19 (UnityEngine.Sprite)
+
+        S1:hexadecimal_11
+        (UnityEngine.Sprite)
+
+        S1:decimal_18 (UnityEngine.Sprite)
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1008
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._07BiHexBeginAndBack]
+      name: _07BiHexBeginAndBack
+      fullName: BasesTests._07BiHexBeginAndBack
+      resultStatus: 1
+      duration: 4.1151123
+      messages: 
+      output: 'S1:hexadecimal_19 (UnityEngine.Sprite)
+
+        S1:binary_20 (UnityEngine.Sprite)
+
+        S1:hexadecimal_13
+        (UnityEngine.Sprite)
+
+        S1:binary_17 (UnityEngine.Sprite)
+
+        S1:hexadecimal_11
+        (UnityEngine.Sprite)
+
+        S1:binary_13 (UnityEngine.Sprite)
+
+        S1:hexadecimal_17
+        (UnityEngine.Sprite)
+
+        S1:binary_16 (UnityEngine.Sprite)
+
+        S1:hexadecimal_12
+        (UnityEngine.Sprite)
+
+        S1:binary_12 (UnityEngine.Sprite)
+
+        S1:hexadecimal_18
+        (UnityEngine.Sprite)
+
+        S1:binary_11 (UnityEngine.Sprite)
+
+        S1:hexadecimal_15
+        (UnityEngine.Sprite)
+
+        S1:binary_19 (UnityEngine.Sprite)
+
+        S1:hexadecimal_20
+        (UnityEngine.Sprite)
+
+        S1:binary_14 (UnityEngine.Sprite)
+
+        S1:hexadecimal_14
+        (UnityEngine.Sprite)
+
+        S1:binary_18 (UnityEngine.Sprite)
+
+        S1:hexadecimal_16
+        (UnityEngine.Sprite)
+
+        S1:binary_15 (UnityEngine.Sprite)
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1009
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._08ScoreAndBack]
+      name: _08ScoreAndBack
+      fullName: BasesTests._08ScoreAndBack
+      resultStatus: 1
+      duration: 4.0736923
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1010
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._09AreCardsCreated]
+      name: _09AreCardsCreated
+      fullName: BasesTests._09AreCardsCreated
+      resultStatus: 1
+      duration: 6.152624
+      messages: 
+      output: 'S1:binary_10 (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_6
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:hexadecimal_20
+        (UnityEngine.Sprite)
+
+        S1:decimal_18 (UnityEngine.Sprite)
+
+        S1:hexadecimal_12
+        (UnityEngine.Sprite)
+
+        S1:decimal_17 (UnityEngine.Sprite)
+
+        S1:hexadecimal_13
+        (UnityEngine.Sprite)
+
+        S1:decimal_15 (UnityEngine.Sprite)
+
+        S1:hexadecimal_16
+        (UnityEngine.Sprite)
+
+        S1:decimal_13 (UnityEngine.Sprite)
+
+        S1:hexadecimal_11
+        (UnityEngine.Sprite)
+
+        S1:decimal_11 (UnityEngine.Sprite)
+
+        S1:hexadecimal_15
+        (UnityEngine.Sprite)
+
+        S1:decimal_19 (UnityEngine.Sprite)
+
+        S1:hexadecimal_19
+        (UnityEngine.Sprite)
+
+        S1:decimal_16 (UnityEngine.Sprite)
+
+        S1:hexadecimal_18
+        (UnityEngine.Sprite)
+
+        S1:decimal_14 (UnityEngine.Sprite)
+
+        S1:hexadecimal_14
+        (UnityEngine.Sprite)
+
+        S1:decimal_12 (UnityEngine.Sprite)
+
+        S1:hexadecimal_17
+        (UnityEngine.Sprite)
+
+        S1:decimal_20 (UnityEngine.Sprite)
+
+        S1:hexadecimal_17
+        (UnityEngine.Sprite)
+
+        S1:binary_11 (UnityEngine.Sprite)
+
+        S1:hexadecimal_12
+        (UnityEngine.Sprite)
+
+        S1:binary_19 (UnityEngine.Sprite)
+
+        S1:hexadecimal_20
+        (UnityEngine.Sprite)
+
+        S1:binary_12 (UnityEngine.Sprite)
+
+        S1:hexadecimal_16
+        (UnityEngine.Sprite)
+
+        S1:binary_15 (UnityEngine.Sprite)
+
+        S1:hexadecimal_19
+        (UnityEngine.Sprite)
+
+        S1:binary_14 (UnityEngine.Sprite)
+
+        S1:hexadecimal_15
+        (UnityEngine.Sprite)
+
+        S1:binary_13 (UnityEngine.Sprite)
+
+        S1:hexadecimal_11
+        (UnityEngine.Sprite)
+
+        S1:binary_16 (UnityEngine.Sprite)
+
+        S1:hexadecimal_14
+        (UnityEngine.Sprite)
+
+        S1:binary_17 (UnityEngine.Sprite)
+
+        S1:hexadecimal_18
+        (UnityEngine.Sprite)
+
+        S1:binary_20 (UnityEngine.Sprite)
+
+        S1:hexadecimal_13
+        (UnityEngine.Sprite)
+
+        S1:binary_18 (UnityEngine.Sprite)
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1011
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._10AreCardsClickable]
+      name: _10AreCardsClickable
+      fullName: BasesTests._10AreCardsClickable
+      resultStatus: 1
+      duration: 3.0520477
+      messages: 
+      output: 'S1:binary_6 (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_10
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        You
+        Pressed on the Tile
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1012
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._11DoTilesDisappearBinary]
+      name: _11DoTilesDisappearBinary
+      fullName: BasesTests._11DoTilesDisappearBinary
+      resultStatus: 1
+      duration: 5.065196
+      messages: 
+      output: 'S1:binary_4 (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_6
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+        S1:binary_10
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.002158
+
+        0.0039252
+
+        0.005488
+
+        0.0069725
+
+        0.008505
+
+        0.0104792
+
+        0.012958
+
+        0.0147983
+
+        0.0164312
+
+        0.0180134
+
+        0.0194833
+
+        0.0209141
+
+        0.0224324
+
+        0.0242935
+
+        0.0281282
+
+        0.0298723
+
+        0.0314461
+
+        0.0331858
+
+        0.034743
+
+        0.036228
+
+        0.0376475
+
+        0.0390851
+
+        0.0404749
+
+        0.0427236
+
+        0.0451045
+
+        0.0467828
+
+        0.0487055
+
+        0.0504053
+
+        0.05206531
+
+        0.0535779
+
+        0.0550793
+
+        0.0572417
+
+        0.05976211
+
+        0.0618207
+
+        0.06365801
+
+        0.0653118
+
+        0.06700581
+
+        0.0685804
+
+        0.0702614
+
+        0.0721449
+
+        0.074138
+
+        0.07589
+
+        0.0777376
+
+        0.080077
+
+        0.0820602
+
+        0.0840636
+
+        0.0858338
+
+        0.08742011
+
+        0.0894644
+
+        0.091033
+
+        0.0926073
+
+        0.0943882
+
+        0.096051
+
+        0.0975645
+
+        0.09915891
+
+        0.1006896
+
+        0.1022753
+
+        0.1043225
+
+        0.1061085
+
+        0.1077578
+
+        0.1093023
+
+        0.1114704
+
+        0.1135823
+
+        0.1155354
+
+        0.1175427
+
+        0.119768
+
+        0.1216742
+
+        0.1231887
+
+        0.1246548
+
+        0.1261928
+
+        0.1278801
+
+        0.1293874
+
+        0.1309004
+
+        0.1324899
+
+        0.1342865
+
+        0.1361366
+
+        0.1377551
+
+        0.1393197
+
+        0.1408553
+
+        0.1424609
+
+        0.1442282
+
+        0.1461739
+
+        0.1478581
+
+        0.1497867
+
+        0.1515631
+
+        0.1531085
+
+        0.1546551
+
+        0.1562623
+
+        0.1578127
+
+        0.1598261
+
+        0.1617824
+
+        0.1634114
+
+        0.1651242
+
+        0.1672626
+
+        0.1687693
+
+        0.1701824
+
+        0.171702
+
+        0.1731294
+
+        0.1745493
+
+        0.1763327
+
+        0.1781679
+
+        0.1797443
+
+        0.1819458
+
+        0.1839012
+
+        0.1856339
+
+        0.1873436
+
+        0.1890064
+
+        0.1906845
+
+        0.1928263
+
+        0.1951649
+
+        0.1975562
+
+        0.199529
+
+        0.2015096
+
+        0.2032874
+
+        0.2048269
+
+        0.206313
+
+        0.207838
+
+        0.2093434
+
+        0.2116679
+
+        0.2146623
+
+        0.2169074
+
+        0.218595
+
+        0.2200482
+
+        0.221635
+
+        0.2231719
+
+        0.2246819
+
+        0.2293757
+
+        0.2310704
+
+        0.2329008
+
+        0.2346513
+
+        0.2363511
+
+        0.2380913
+
+        0.2395888
+
+        0.2419029
+
+        0.2450525
+
+        0.2468858
+
+        0.2486519
+
+        0.2502128
+
+        0.2521427
+
+        0.253822
+
+        0.2552948
+
+        0.2572059
+
+        0.258926
+
+        0.2607362
+
+        0.2623845
+
+        0.2638998
+
+        0.2654541
+
+        0.2670437
+
+        0.2686003
+
+        0.2700749
+
+        0.2716823
+
+        0.2736168
+
+        0.2754057
+
+        0.2775709
+
+        0.279415
+
+        0.2811892
+
+        0.2828762
+
+        0.2845156
+
+        0.286069
+
+        0.2876192
+
+        0.2899927
+
+        0.2916793
+
+        0.293955
+
+        0.2957105
+
+        0.2972766
+
+        0.2988207
+
+        0.3003929
+
+        0.3020373
+
+        0.3038883
+
+        0.3054861
+
+        0.3070808
+
+        0.3089852
+
+        0.3109904
+
+        0.3131797
+
+        0.3150477
+
+        0.3167401
+
+        0.3187123
+
+        0.3205738
+
+        0.3221305
+
+        0.3236418
+
+        0.3251296
+
+        0.3297669
+
+        0.3368682
+
+        0.3395511
+
+        0.3413071
+
+        0.3434446
+
+        0.345805
+
+        0.34762
+
+        0.350087
+
+        0.352224
+
+        0.3539106
+
+        0.3556248
+
+        0.3572053
+
+        0.3590144
+
+        0.3610204
+
+        0.3629008
+
+        0.3647688
+
+        0.3671615
+
+        0.3689626
+
+        0.37059
+
+        0.3721709
+
+        0.373653
+
+        0.3750732
+
+        0.378276
+
+        0.3808784
+
+        0.3840401
+
+        0.3860078
+
+        0.3876162
+
+        0.3891806
+
+        0.3910077
+
+        0.3927778
+
+        0.3946669
+
+        0.3966942
+
+        0.3989585
+
+        0.4007262
+
+        0.4023604
+
+        0.4038698
+
+        0.4053174
+
+        0.4069019
+
+        0.4084162
+
+        0.4101529
+
+        0.4133441
+
+        0.4157085
+
+        0.4174066
+
+        0.4190128
+
+        0.4204822
+
+        0.422144
+
+        0.4236487
+
+        0.4251839
+
+        0.4295548
+
+        0.4314547
+
+        0.4332488
+
+        0.4348174
+
+        0.4362642
+
+        0.4376867
+
+        0.4391139
+
+        0.4405903
+
+        0.4426486
+
+        0.4457572
+
+        0.4477705
+
+        0.4494075
+
+        0.4509735
+
+        0.4525059
+
+        0.4539856
+
+        0.4554182
+
+        0.4568182
+
+        0.4587942
+
+        0.4606239
+
+        0.4622724
+
+        0.4637471
+
+        0.4652175
+
+        0.4667323
+
+        0.4682636
+
+        0.469829
+
+        0.471363
+
+        0.473
+
+        0.4752886
+
+        0.4778733
+
+        0.4798705
+
+        0.481893
+
+        0.4836392
+
+        0.4852637
+
+        0.4868022
+
+        0.4883343
+
+        0.490104
+
+        0.4921772
+
+        0.4942854
+
+        0.4960232
+
+        0.4975463
+
+        0.4989734
+
+        0.500661
+
+        0.5021002
+
+        0.5035059
+
+        0.5049444
+
+        0.506507
+
+        0.5079985
+
+        0.5095173
+
+        0.512346
+
+        0.5141252
+
+        0.5160894
+
+        0.517686
+
+        0.5191923
+
+        0.5212922
+
+        0.5234993
+
+        0.5257381
+
+        0.5275481
+
+        0.5290725
+
+        0.5305945
+
+        0.53269
+
+        0.5342517
+
+        0.5357423
+
+        0.5378869
+
+        0.5398167
+
+        0.5414219
+
+        0.5431129
+
+        0.54514
+
+        0.5470995
+
+        0.5489945
+
+        0.550768
+
+        0.5529808
+
+        0.5549276
+
+        0.5566143
+
+        0.5582215
+
+        0.5601004
+
+        0.5618876
+
+        0.5635322
+
+        0.5650561
+
+        0.5667143
+
+        0.5689466
+
+        0.5709256
+
+        0.5725766
+
+        0.5742139
+
+        0.5760196
+
+        0.5782129
+
+        0.5801309
+
+        0.5827115
+
+        0.5851262
+
+        0.587626
+
+        0.5898327
+
+        0.5921152
+
+        0.5940423
+
+        0.5959547
+
+        0.5977191
+
+        0.600031
+
+        0.6019918
+
+        0.603724
+
+        0.6053352
+
+        0.6069852
+
+        0.6088641
+
+        0.6107357
+
+        0.6131945
+
+        0.6154902
+
+        0.6174304
+
+        0.6191404
+
+        0.6207786
+
+        0.622555
+
+        0.6241845
+
+        0.6259235
+
+        0.6306168
+
+        0.6328502
+
+        0.6346058
+
+        0.6363227
+
+        0.6378993
+
+        0.6394637
+
+        0.6411859
+
+        0.643037
+
+        0.6452768
+
+        0.6478444
+
+        0.6496164
+
+        0.6512756
+
+        0.652934
+
+        0.6545309
+
+        0.6561404
+
+        0.6577101
+
+        0.6593229
+
+        0.6610606
+
+        0.6630779
+
+        0.6648841
+
+        0.6666403
+
+        0.6683039
+
+        0.6699214
+
+        0.6714981
+
+        0.6731514
+
+        0.6747074
+
+        0.6763502
+
+        0.6797889
+
+        0.6825389
+
+        0.6849489
+
+        0.6870704
+
+        0.6886891
+
+        0.6901447
+
+        0.691734
+
+        0.6943602
+
+        0.6963131
+
+        0.6978905
+
+        0.6993821
+
+        0.7009612
+
+        0.7025683
+
+        0.7040845
+
+        0.7055869
+
+        0.7071273
+
+        0.7090111
+
+        0.7118663
+
+        0.7136723
+
+        0.7152912
+
+        0.7169692
+
+        0.7184953
+
+        0.7201707
+
+        0.7218513
+
+        0.7234275
+
+        0.7258252
+
+        0.7278872
+
+        0.7295443
+
+        0.731077
+
+        0.7326974
+
+        0.7342543
+
+        0.7357754
+
+        0.7372654
+
+        0.7388199
+
+        0.7409647
+
+        0.7432776
+
+        0.7457437
+
+        0.7475107
+
+        0.749068
+
+        0.7506835
+
+        0.752264
+
+        0.7537917
+
+        0.7553036
+
+        0.7571586
+
+        0.7589695
+
+        0.7608029
+
+        0.7626219
+
+        0.7640868
+
+        0.7655398
+
+        0.7670998
+
+        0.7685831
+
+        0.7700617
+
+        0.7721344
+
+        0.7738642
+
+        0.7754527
+
+        0.7772124
+
+        0.7793401
+
+        0.7813838
+
+        0.7832607
+
+        0.7848407
+
+        0.7863458
+
+        0.7880338
+
+        0.7895938
+
+        0.7911261
+
+        0.7927293
+
+        0.7945166
+
+        0.7960791
+
+        0.7976403
+
+        0.7992218
+
+        0.8007714
+
+        0.8023645
+
+        0.8042686
+
+        0.8057896
+
+        0.8072511
+
+        0.8088072
+
+        0.8106351
+
+        0.8130289
+
+        0.8147987
+
+        0.8164433
+
+        0.8185155
+
+        0.8202108
+
+        0.8218578
+
+        0.8236156
+
+        0.8254261
+
+        0.8281459
+
+        0.8328939
+
+        0.8354173
+
+        0.8379762
+
+        0.8403483
+
+        0.8426409
+
+        0.8451654
+
+        0.8471376
+
+        0.849458
+
+        0.8517297
+
+        0.8536694
+
+        0.8557673
+
+        0.8572763
+
+        0.8587705
+
+        0.8602815
+
+        0.861841
+
+        0.8632782
+
+        0.8648782
+
+        0.866484
+
+        0.8679783
+
+        0.8694404
+
+        0.8708991
+
+        0.872427
+
+        0.8739344
+
+        0.8755205
+
+        0.8770716
+
+        0.8788754
+
+        0.8814175
+
+        0.8833477
+
+        0.8848748
+
+        0.886387
+
+        0.8878412
+
+        0.8892671
+
+        0.8907647
+
+        0.8922559
+
+        0.8937353
+
+        0.8954335
+
+        0.8970114
+
+        0.8986417
+
+        0.9006511
+
+        0.9030313
+
+        0.9049714
+
+        0.9070796
+
+        0.9090875
+
+        0.9122539
+
+        0.9162952
+
+        0.9185702
+
+        0.9204453
+
+        0.9224746
+
+        0.9246432
+
+        0.9279312
+
+        0.9301069
+
+        0.9325134
+
+        0.9349257
+
+        0.9369889
+
+        0.9387861
+
+        0.9414195
+
+        0.9445283
+
+        0.9476672
+
+        0.950572
+
+        0.9526101
+
+        0.9546397
+
+        0.9573129
+
+        0.9610965
+
+        0.9633905
+
+        0.965436
+
+        0.9675971
+
+        0.9694343
+
+        0.971426
+
+        0.9747772
+
+        0.9779089
+
+        0.9813077
+
+        0.9842463
+
+        0.9863256
+
+        0.9892026
+
+        0.9912211
+
+        0.9937506
+
+        0.9966813
+
+        1.00005
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1013
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._12DoesVictoryScreenAppear]
+      name: _12DoesVictoryScreenAppear
+      fullName: BasesTests._12DoesVictoryScreenAppear
+      resultStatus: 2
+      duration: 0
+      messages: Cancelled by user
+      output: 'S1:binary_10 (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_6
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0059442
+
+        0.0118979
+
+        0.0157869
+
+        0.0177511
+
+        0.0195785
+
+        0.0212387
+
+        0.0227249
+
+        0.0244412
+
+        0.026176
+
+        0.0279055
+
+        0.0299867
+
+        0.0322019
+
+        0.0367254
+
+        0.0413963
+
+        0.0435198
+
+        0.0452423
+
+        0.0476192
+
+        0.0503648
+
+        0.0523186
+
+        0.0540849
+
+        0.0557832
+
+        0.057588
+
+        0.0593963
+
+        0.0610814
+
+        0.0637819
+
+        0.0664217
+
+        0.0685567
+
+        0.0706257
+
+        0.0725813
+
+        0.0745599
+
+        0.0765368
+
+        0.0788819
+
+        0.0820487
+
+        0.0840521
+
+        0.0859704
+
+        0.0880987
+
+        0.089912
+
+        0.09159461
+
+        0.09334411
+
+        0.09570171
+
+        0.09749951
+
+        0.09926961
+
+        0.100717
+
+        0.1021897
+
+        0.1037153
+
+        0.1051664
+
+        0.1065793
+
+        0.1081788
+
+        0.1104111
+
+        0.1122275
+
+        0.1139849
+
+        0.1157958
+
+        0.1173964
+
+        0.1192784
+
+        0.1208285
+
+        0.1223381
+
+        0.1241112
+
+        0.1287748
+
+        0.1305108
+
+        0.132139
+
+        0.1335791
+
+        0.1350011
+
+        0.136414
+
+        0.1380563
+
+        0.139805
+
+        0.1413073
+
+        0.1427288
+
+        0.1442218
+
+        0.1458899
+
+        0.1483986
+
+        0.1505262
+
+        0.1523699
+
+        0.1540008
+
+        0.1560903
+
+        0.1578361
+
+        0.1594955
+
+        0.1610205
+
+        0.1624678
+
+        0.1641572
+
+        0.1657825
+
+        0.1673961
+
+        0.1689029
+
+        0.1710781
+
+        0.1729361
+
+        0.1744429
+
+        0.1759372
+
+        0.177526
+
+        0.1792998
+
+        0.1815521
+
+        0.1832424
+
+        0.1850357
+
+        0.1870865
+
+        0.1888765
+
+        0.190495
+
+        0.1921542
+
+        0.1937304
+
+        0.2035193
+
+        0.2081379
+
+        0.2188942
+
+        0.226257
+
+        0.238047
+
+        0.2413246
+
+        0.2528157
+
+        0.2573157
+
+        0.2618437
+
+        0.2667199
+
+        0.270936
+
+        0.276909
+
+        0.2806922
+
+        0.2851938
+
+        0.2892936
+
+        0.2939786
+
+        0.2997776
+
+        0.3029985
+
+        0.307358
+
+        0.3102314
+
+        0.3190858
+
+        0.323912
+
+        0.3281156
+
+        0.334914
+
+        0.3397336
+
+        0.3433015
+
+        0.3471
+
+        0.3510095
+
+        0.3552752
+
+        0.3590866
+
+        0.362586
+
+        0.3658053
+
+        0.3721555
+
+        0.37612
+
+        0.3819115
+
+        0.4070203
+
+        0.4104616
+
+        0.4205906
+
+        0.4244472
+
+        0.4303704
+
+        0.4403567
+
+        0.4439104
+
+        0.4560141
+
+        0.4593145
+
+        0.4666097
+
+        0.4709963
+
+        0.4768156
+
+        0.4885521
+
+        0.493503
+
+        0.4958838
+
+        0.5027264
+
+        0.5063575
+
+        0.5083951
+
+        0.5117611
+
+        0.5187373
+
+        0.5247759
+
+        0.5267885
+
+        0.5328053
+
+        0.5394638
+
+        0.5438874
+
+        0.5472733
+
+        0.5527692
+
+        0.5559409
+
+        0.5590577
+
+        0.5617422
+
+        0.5643167
+
+        0.5669878
+
+        0.5712492
+
+        0.5767518
+
+        0.5802691
+
+        0.5840398
+
+        0.5895791
+
+        0.5924829
+
+        0.595171
+
+        0.5980809
+
+        0.6008739
+
+        0.6051455
+
+        0.6077126
+
+        0.6103629
+
+        0.6181248
+
+        0.622151
+
+        0.6347795
+
+        0.640407
+
+        0.6421352
+
+        0.6456774
+
+        0.6519305
+
+        0.6548766
+
+        0.6565942
+
+        0.65995
+
+        0.6697394
+
+        0.6729714
+
+        0.6755065
+
+        0.6771913
+
+        0.6794356
+
+        0.6859019
+
+        0.688728
+
+        0.6917886
+
+        0.693634
+
+        0.6953067
+
+        0.6971018
+
+        0.7013153
+
+        0.7032395
+
+        0.7049119
+
+        0.7079581
+
+        0.7097029
+
+        0.7111924
+
+        0.7127562
+
+        0.7188247
+
+        0.7206752
+
+        0.7223186
+
+        0.7238094
+
+        0.7252682
+
+        0.72666
+
+        0.7302771
+
+        0.7323223
+
+        0.7338805
+
+        0.7399007
+
+        0.7415811
+
+        0.7430236
+
+        0.7444228
+
+        0.748977
+
+        0.7508258
+
+        0.7534799
+
+        0.7551033
+
+        0.7565296
+
+        0.7581117
+
+        0.7604682
+
+        0.7619643
+
+        0.7641488
+
+        0.7668499
+
+        0.7685565
+
+        0.7701454
+
+        0.77266
+
+        0.7742665
+
+        0.7756956
+
+        0.7770997
+
+        0.779546
+
+        0.782472
+
+        0.784696
+
+        0.7862976
+
+        0.7880689
+
+        0.7898075
+
+        0.7914553
+
+        0.7935694
+
+        0.7953414
+
+        0.7969358
+
+        0.7985735
+
+        0.8002467
+
+        0.8016434
+
+        0.8030621
+
+        0.8045068
+
+        0.8058901
+
+        0.8073741
+
+        0.8095394
+
+        0.8111212
+
+        0.8127171
+
+        0.8144504
+
+        0.8161718
+
+        0.8184564
+
+        0.8203867
+
+        0.8219493
+
+        0.8233499
+
+        0.8253492
+
+        0.8267842
+
+        0.8283669
+
+        0.8299336
+
+        0.831582
+
+        0.8330633
+
+        0.8344942
+
+        0.8359534
+
+        0.8374407
+
+        0.8389878
+
+        0.8410684
+
+        0.8426117
+
+        0.8440737
+
+        0.8456141
+
+        0.8477229
+
+        0.8499666
+
+        0.8517057
+
+        0.8533677
+
+        0.8556312
+
+        0.8574678
+
+        0.8590292
+
+        0.8604704
+
+        0.8619443
+
+        0.8638987
+
+        0.8752647
+
+        0.8779838
+
+        0.8807792
+
+        0.8826982
+
+        0.8843202
+
+        0.8861605
+
+        0.8878352
+
+        0.8893045
+
+        0.8907568
+
+        0.8922291
+
+        0.8936204
+
+        0.8950385
+
+        0.8969681
+
+        0.9002098
+
+        0.9027672
+
+        0.9044581
+
+        0.906136
+
+        0.9081081
+
+        0.9105017
+
+        0.9126599
+
+        0.9144098
+
+        0.9165579
+
+        0.9192594
+
+        0.9212019
+
+        0.9230089
+
+        0.9248168
+
+        0.9279028
+
+        0.9299291
+
+        0.9318072
+
+        0.9341168
+
+        0.9393081
+
+        0.9410239
+
+        0.9426231
+
+        0.94424
+
+        0.9459069
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1014
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._13DoesTimerCount]
+      name: _13DoesTimerCount
+      fullName: BasesTests._13DoesTimerCount
+      resultStatus: 0
+      duration: 5.086185
+      messages: 
+      output: 'S1:binary_6 (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_5
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        S1:binary_10
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    - id: 1015
+      uniqueId: Tests.dll/BasesTests/[Tests][BasesTests._14DoesTimerStop]
+      name: _14DoesTimerStop
+      fullName: BasesTests._14DoesTimerStop
+      resultStatus: 0
+      duration: 27.108715
+      messages: 
+      output: 'S1:binary_5 (UnityEngine.Sprite)
+
+        S1:decimal_4 (UnityEngine.Sprite)
+
+        S1:binary_4
+        (UnityEngine.Sprite)
+
+        S1:decimal_1 (UnityEngine.Sprite)
+
+        S1:binary_7
+        (UnityEngine.Sprite)
+
+        S1:decimal_5 (UnityEngine.Sprite)
+
+        S1:binary_10
+        (UnityEngine.Sprite)
+
+        S1:decimal_7 (UnityEngine.Sprite)
+
+        S1:binary_9
+        (UnityEngine.Sprite)
+
+        S1:decimal_6 (UnityEngine.Sprite)
+
+        S1:binary_8
+        (UnityEngine.Sprite)
+
+        S1:decimal_3 (UnityEngine.Sprite)
+
+        S1:binary_2
+        (UnityEngine.Sprite)
+
+        S1:decimal_8 (UnityEngine.Sprite)
+
+        S1:binary_6
+        (UnityEngine.Sprite)
+
+        S1:decimal_9 (UnityEngine.Sprite)
+
+        S1:binary_1
+        (UnityEngine.Sprite)
+
+        S1:decimal_10 (UnityEngine.Sprite)
+
+        S1:binary_3
+        (UnityEngine.Sprite)
+
+        S1:decimal_2 (UnityEngine.Sprite)
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0020955
+
+        0.00365
+
+        0.0052602
+
+        0.0071001
+
+        0.009001
+
+        0.010746
+
+        0.0126359
+
+        0.0143702
+
+        0.0159765
+
+        0.0181474
+
+        0.019886
+
+        0.0219257
+
+        0.0245695
+
+        0.0263268
+
+        0.0280391
+
+        0.0304229
+
+        0.0326044
+
+        0.0364206
+
+        0.0385993
+
+        0.0405456
+
+        0.042436
+
+        0.04455389
+
+        0.0486357
+
+        0.0509822
+
+        0.0528805
+
+        0.0561007
+
+        0.0577856
+
+        0.0614531
+
+        0.0631986
+
+        0.06461389
+
+        0.06730749
+
+        0.0690083
+
+        0.0720573
+
+        0.0764684
+
+        0.0794628
+
+        0.0811394
+
+        0.0845879
+
+        0.0873258
+
+        0.08983041
+
+        0.09184711
+
+        0.09488891
+
+        0.09640161
+
+        0.09924651
+
+        0.1011175
+
+        0.1044848
+
+        0.1066047
+
+        0.1098551
+
+        0.1117482
+
+        0.1134803
+
+        0.1152652
+
+        0.1192589
+
+        0.1211058
+
+        0.1234418
+
+        0.135415
+
+        0.1388676
+
+        0.1452545
+
+        0.1473139
+
+        0.1524986
+
+        0.1592672
+
+        0.1685572
+
+        0.1727926
+
+        0.1762342
+
+        0.1792596
+
+        0.182231
+
+        0.186717
+
+        0.1895566
+
+        0.1936735
+
+        0.1973841
+
+        0.2043539
+
+        0.2087244
+
+        0.2123954
+
+        0.2149449
+
+        0.2197147
+
+        0.2226155
+
+        0.2264329
+
+        0.230403
+
+        0.2361266
+
+        0.24439
+
+        0.2494421
+
+        0.2545077
+
+        0.2585206
+
+        0.2626855
+
+        0.265389
+
+        0.2705949
+
+        0.2761327
+
+        0.2804311
+
+        0.2877659
+
+        0.2907594
+
+        0.2975385
+
+        0.3015977
+
+        0.3070517
+
+        0.3112597
+
+        0.3142124
+
+        0.3195334
+
+        0.3233675
+
+        0.3276416
+
+        0.3486056
+
+        0.3676864
+
+        0.3811626
+
+        0.3990033
+
+        0.4098628
+
+        0.4291337
+
+        0.4335236
+
+        0.4381293
+
+        0.4444935
+
+        0.4627397
+
+        0.4662369
+
+        0.4700198
+
+        0.4867918
+
+        0.4914348
+
+        0.4956028
+
+        0.5024645
+
+        0.5113957
+
+        0.5170242
+
+        0.5216959
+
+        0.5298063
+
+        0.553474
+
+        0.5567883
+
+        0.560813
+
+        0.564577
+
+        0.5687633
+
+        0.5767475
+
+        0.5803972
+
+        0.5854599
+
+        0.5902151
+
+        0.5940564
+
+        0.5964974
+
+        0.599381
+
+        0.6051349
+
+        0.6094658
+
+        0.6134462
+
+        0.6170838
+
+        0.6205531
+
+        0.6235849
+
+        0.6275038
+
+        0.6303397
+
+        0.6368532
+
+        0.6457614
+
+        0.6533951
+
+        0.6584606
+
+        0.6634809
+
+        0.6693689
+
+        0.6776482
+
+        0.6845769
+
+        0.6886802
+
+        0.6937578
+
+        0.7015857
+
+        0.7065462
+
+        0.7095551
+
+        0.7143651
+
+        0.7186876
+
+        0.7213319
+
+        0.7230525
+
+        0.7246105
+
+        0.7265181
+
+        0.7283924
+
+        0.7299413
+
+        0.7436038
+
+        0.7455122
+
+        0.7469845
+
+        0.748543
+
+        0.7503806
+
+        0.7522568
+
+        0.7543001
+
+        0.7563925
+
+        0.7596333
+
+        0.76171
+
+        0.7635455
+
+        0.7652849
+
+        0.7672755
+
+        0.7694723
+
+        0.7716225
+
+        0.7748346
+
+        0.7766052
+
+        0.7784896
+
+        0.7801421
+
+        0.7823657
+
+        0.7842253
+
+        0.7861626
+
+        0.7892969
+
+        0.7914303
+
+        0.7932941
+
+        0.7949586
+
+        0.7966432
+
+        0.8002938
+
+        0.8126065
+
+        0.8153843
+
+        0.821765
+
+        0.8248201
+
+        0.8283664
+
+        0.8363756
+
+        0.8432623
+
+        0.8465969
+
+        0.8545244
+
+        0.8593537
+
+        0.8646291
+
+        0.8705372
+
+        0.8746206
+
+        0.8785442
+
+        0.8846642
+
+        0.8885605
+
+        0.8932253
+
+        0.9013758
+
+        0.9053096
+
+        0.9094476
+
+        0.9145922
+
+        0.9192218
+
+        0.9235797
+
+        0.9285105
+
+        0.9321738
+
+        0.9477796
+
+        0.9507554
+
+        0.9574351
+
+        0.9605082
+
+        0.9648836
+
+        0.9684349
+
+        0.9789175
+
+        0.9819337
+
+        0.9855645
+
+        0.9897181
+
+        0.992008
+
+        0.9937351
+
+        0.9952567
+
+        0.996887
+
+        0.9985763
+
+        1.000297
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0023092
+
+        0.0045337
+
+        0.0066762
+
+        0.01953
+
+        0.0229299
+
+        0.0253796
+
+        0.0273938
+
+        0.02936
+
+        0.0326229
+
+        0.0347146
+
+        0.0371051
+
+        0.0406559
+
+        0.0430219
+
+        0.0453369
+
+        0.0472602
+
+        0.0495997
+
+        0.0522096
+
+        0.0541722
+
+        0.0558933
+
+        0.0576263
+
+        0.0594352
+
+        0.0613748
+
+        0.063061
+
+        0.0648758
+
+        0.06689829
+
+        0.0703963
+
+        0.07266439
+
+        0.07455839
+
+        0.07641269
+
+        0.07821229
+
+        0.08029569
+
+        0.08252529
+
+        0.08490449
+
+        0.08706659
+
+        0.08885399
+
+        0.09075679
+
+        0.09246599
+
+        0.09383529
+
+        0.09519399
+
+        0.09702099
+
+        0.09945109
+
+        0.101563
+
+        0.1033129
+
+        0.1054619
+
+        0.1072641
+
+        0.108852
+
+        0.1105147
+
+        0.1121177
+
+        0.1136937
+
+        0.1160895
+
+        0.1179992
+
+        0.1198796
+
+        0.1216351
+
+        0.1230682
+
+        0.1244454
+
+        0.1258989
+
+        0.1275403
+
+        0.1290463
+
+        0.1313792
+
+        0.133032
+
+        0.1344878
+
+        0.1359509
+
+        0.1382405
+
+        0.1401672
+
+        0.1419869
+
+        0.1552439
+
+        0.1573373
+
+        0.1591894
+
+        0.161921
+
+        0.1636269
+
+        0.1652611
+
+        0.1673617
+
+        0.1689984
+
+        0.1713527
+
+        0.1739819
+
+        0.1843521
+
+        0.1864168
+
+        0.1881301
+
+        0.1902005
+
+        0.1925817
+
+        0.1940872
+
+        0.1955052
+
+        0.197375
+
+        0.199703
+
+        0.2017475
+
+        0.2035547
+
+        0.2063859
+
+        0.2087156
+
+        0.2106301
+
+        0.2123512
+
+        0.2142206
+
+        0.2167361
+
+        0.2187217
+
+        0.220802
+
+        0.223076
+
+        0.2245983
+
+        0.2260376
+
+        0.2274605
+
+        0.2289043
+
+        0.2305889
+
+        0.2322146
+
+        0.2337456
+
+        0.2352928
+
+        0.2376261
+
+        0.2401332
+
+        0.2423939
+
+        0.2445832
+
+        0.2467231
+
+        0.2491173
+
+        0.2515497
+
+        0.2541131
+
+        0.2561987
+
+        0.2578934
+
+        0.2594883
+
+        0.2611392
+
+        0.2626864
+
+        0.2642943
+
+        0.2660222
+
+        0.2676375
+
+        0.2696524
+
+        0.2720505
+
+        0.2737064
+
+        0.2752543
+
+        0.2769583
+
+        0.2785905
+
+        0.2803818
+
+        0.282399
+
+        0.28411
+
+        0.2867908
+
+        0.2890825
+
+        0.2913966
+
+        0.2936665
+
+        0.2958369
+
+        0.2981678
+
+        0.3006675
+
+        0.303032
+
+        0.304995
+
+        0.3073743
+
+        0.309524
+
+        0.3114043
+
+        0.3132474
+
+        0.3157356
+
+        0.3182667
+
+        0.32077
+
+        0.322686
+
+        0.3244786
+
+        0.3263474
+
+        0.3280724
+
+        0.3302083
+
+        0.3329717
+
+        0.3351516
+
+        0.3374074
+
+        0.3393126
+
+        0.3411701
+
+        0.3428585
+
+        0.3587459
+
+        0.367727
+
+        0.3735503
+
+        0.3769598
+
+        0.3808445
+
+        0.3856528
+
+        0.3887502
+
+        0.3925217
+
+        0.3965418
+
+        0.3995626
+
+        0.4026468
+
+        0.4059518
+
+        0.4090631
+
+        0.4123442
+
+        0.4163872
+
+        0.4198654
+
+        0.4228884
+
+        0.4260774
+
+        0.4296288
+
+        0.4356254
+
+        0.4400606
+
+        0.4438517
+
+        0.4460502
+
+        0.4488082
+
+        0.4517864
+
+        0.4544197
+
+        0.4576579
+
+        0.46276
+
+        0.4656448
+
+        0.4674163
+
+        0.4692681
+
+        0.4720313
+
+        0.4741063
+
+        0.475781
+
+        0.4776079
+
+        0.4798545
+
+        0.4820943
+
+        0.4841115
+
+        0.4867508
+
+        0.488608
+
+        0.490442
+
+        0.4919902
+
+        0.4933839
+
+        0.494733
+
+        0.4962034
+
+        0.4977521
+
+        0.5001737
+
+        0.5043895
+
+        0.5076614
+
+        0.5106227
+
+        0.5131043
+
+        0.5161625
+
+        0.5194862
+
+        0.5223023
+
+        0.5246053
+
+        0.5274512
+
+        0.5295281
+
+        0.5327371
+
+        0.535608
+
+        0.5378539
+
+        0.540314
+
+        0.5422017
+
+        0.5438906
+
+        0.5567585
+
+        0.5584057
+
+        0.5598595
+
+        0.5613429
+
+        0.5627342
+
+        0.5658779
+
+        0.5677639
+
+        0.5698418
+
+        0.5716123
+
+        0.5731713
+
+        0.5745954
+
+        0.5760991
+
+        0.5776052
+
+        0.5796623
+
+        0.5818871
+
+        0.5836937
+
+        0.5853132
+
+        0.5869131
+
+        0.5884683
+
+        0.5900226
+
+        0.591553
+
+        0.5930228
+
+        0.5948024
+
+        0.5968992
+
+        0.5986427
+
+        0.6007157
+
+        0.6023525
+
+        0.6039971
+
+        0.6057353
+
+        0.6073969
+
+        0.609078
+
+        0.6110955
+
+        0.6130495
+
+        0.6154927
+
+        0.6172544
+
+        0.6187773
+
+        0.6205316
+
+        0.6221635
+
+        0.6236383
+
+        0.6250898
+
+        0.6267989
+
+        0.6283602
+
+        0.6299862
+
+        0.6317242
+
+        0.6333511
+
+        0.6347548
+
+        0.6362973
+
+        0.6380712
+
+        0.6397656
+
+        0.6417865
+
+        0.6435696
+
+        0.6451151
+
+        0.6466418
+
+        0.6484684
+
+        0.6500719
+
+        0.6517609
+
+        0.6532789
+
+        0.6548092
+
+        0.6566905
+
+        0.658419
+
+        0.6603911
+
+        0.6619802
+
+        0.6635256
+
+        0.6653031
+
+        0.666881
+
+        0.6683971
+
+        0.6700962
+
+        0.6723855
+
+        0.6741379
+
+        0.6756284
+
+        0.6770594
+
+        0.6784698
+
+        0.6799695
+
+        0.6816676
+
+        0.6833021
+
+        0.6847856
+
+        0.6862655
+
+        0.6881018
+
+        0.6897759
+
+        0.6914039
+
+        0.692916
+
+        0.6944914
+
+        0.6959866
+
+        0.6977128
+
+        0.6994791
+
+        0.7011834
+
+        0.7031202
+
+        0.7049093
+
+        0.7067389
+
+        0.7083948
+
+        0.7100281
+
+        0.7115293
+
+        0.7129849
+
+        0.7153392
+
+        0.7171624
+
+        0.7196265
+
+        0.7216245
+
+        0.7230698
+
+        0.7244784
+
+        0.7258813
+
+        0.7273769
+
+        0.7289216
+
+        0.7306919
+
+        0.7324042
+
+        0.734196
+
+        0.7361734
+
+        0.7379278
+
+        0.7397803
+
+        0.7413983
+
+        0.7429149
+
+        0.7443303
+
+        0.75696
+
+        0.7586651
+
+        0.7605665
+
+        0.7621168
+
+        0.7636653
+
+        0.7659301
+
+        0.7677186
+
+        0.7693483
+
+        0.7712308
+
+        0.7728317
+
+        0.7742752
+
+        0.7757542
+
+        0.7772995
+
+        0.7788743
+
+        0.7810184
+
+        0.7830197
+
+        0.7845837
+
+        0.7860705
+
+        0.7875702
+
+        0.7890438
+
+        0.7906951
+
+        0.7922429
+
+        0.7936981
+
+        0.7951657
+
+        0.7973087
+
+        0.7988893
+
+        0.8004829
+
+        0.8021252
+
+        0.8041267
+
+        0.8057426
+
+        0.8074173
+
+        0.8089396
+
+        0.8106158
+
+        0.8125943
+
+        0.8141355
+
+        0.8161606
+
+        0.8177287
+
+        0.8194602
+
+        0.8212553
+
+        0.8228281
+
+        0.8243906
+
+        0.8261518
+
+        0.8283569
+
+        0.8301171
+
+        0.831991
+
+        0.8339095
+
+        0.8360394
+
+        0.8381835
+
+        0.8409256
+
+        0.8436128
+
+        0.8455423
+
+        0.8473355
+
+        0.8493584
+
+        0.8512279
+
+        0.8530784
+
+        0.8552876
+
+        0.8568923
+
+        0.8587176
+
+        0.8609856
+
+        0.8626115
+
+        0.8655105
+
+        0.8674243
+
+        0.8692282
+
+        0.8715732
+
+        0.8737199
+
+        0.8758022
+
+        0.8776497
+
+        0.8795351
+
+        0.8831716
+
+        0.8852731
+
+        0.8871927
+
+        0.888939
+
+        0.8909089
+
+        0.892519
+
+        0.8939086
+
+        0.8953931
+
+        0.8971627
+
+        0.8993362
+
+        0.9013225
+
+        0.9030984
+
+        0.9055646
+
+        0.9080989
+
+        0.9102708
+
+        0.9119344
+
+        0.9134121
+
+        0.9155688
+
+        0.9175534
+
+        0.9193929
+
+        0.9219643
+
+        0.9239603
+
+        0.9255724
+
+        0.9270434
+
+        0.9284775
+
+        0.9300427
+
+        0.9317517
+
+        0.9334977
+
+        0.935567
+
+        0.9390219
+
+        0.941655
+
+        0.9435055
+
+        0.9454629
+
+        0.9596276
+
+        0.9618409
+
+        0.9639322
+
+        0.966454
+
+        0.9701976
+
+        0.9732857
+
+        0.9751403
+
+        0.9768313
+
+        0.9785036
+
+        0.9802498
+
+        0.982291
+
+        0.9841408
+
+        0.985859
+
+        0.9875569
+
+        0.9895036
+
+        0.9916084
+
+        0.9934421
+
+        0.995351
+
+        0.998236
+
+        1.000991
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.002136
+
+        0.0042205
+
+        0.0057743
+
+        0.007951
+
+        0.00991
+
+        0.0114797
+
+        0.013579
+
+        0.0154036
+
+        0.017229
+
+        0.0189651
+
+        0.0205637
+
+        0.0221131
+
+        0.024173
+
+        0.025775
+
+        0.0274126
+
+        0.0292664
+
+        0.0310585
+
+        0.0326421
+
+        0.0343607
+
+        0.0364589
+
+        0.038551
+
+        0.0403999
+
+        0.0420227
+
+        0.0436489
+
+        0.0461611
+
+        0.0483183
+
+        0.0500977
+
+        0.0517604
+
+        0.0536243
+
+        0.0557494
+
+        0.0576258
+
+        0.0593741
+
+        0.0610072
+
+        0.0627584
+
+        0.0645324
+
+        0.0662887
+
+        0.0684652
+
+        0.07100631
+
+        0.07310931
+
+        0.07506431
+
+        0.07679931
+
+        0.07880041
+
+        0.08061311
+
+        0.08242561
+
+        0.08421551
+
+        0.0867115
+
+        0.08874641
+
+        0.0906207
+
+        0.09255321
+
+        0.0946874
+
+        0.0969041
+
+        0.099043
+
+        0.1013466
+
+        0.1033347
+
+        0.1051054
+
+        0.1069229
+
+        0.1093601
+
+        0.111251
+
+        0.1133576
+
+        0.1159128
+
+        0.1182493
+
+        0.1205808
+
+        0.1225738
+
+        0.1245277
+
+        0.1267574
+
+        0.1292887
+
+        0.1319216
+
+        0.1345297
+
+        0.1371987
+
+        0.1390772
+
+        0.1407758
+
+        0.1424766
+
+        0.1447888
+
+        0.1478938
+
+        0.149882
+
+        0.1637757
+
+        0.1659619
+
+        0.168936
+
+        0.1709914
+
+        0.1728145
+
+        0.1745178
+
+        0.1761228
+
+        0.1793322
+
+        0.1819942
+
+        0.1840421
+
+        0.1857146
+
+        0.1872637
+
+        0.1889975
+
+        0.1906685
+
+        0.1928519
+
+        0.1953476
+
+        0.1977661
+
+        0.1997698
+
+        0.2017261
+
+        0.2037158
+
+        0.2054216
+
+        0.2072185
+
+        0.2092869
+
+        0.2108441
+
+        0.2128416
+
+        0.2147478
+
+        0.2166791
+
+        0.2184154
+
+        0.2200482
+
+        0.221411
+
+        0.2234284
+
+        0.2254277
+
+        0.2271363
+
+        0.2290961
+
+        0.2308905
+
+        0.2325372
+
+        0.2344253
+
+        0.2368671
+
+        0.2394559
+
+        0.2411517
+
+        0.2425335
+
+        0.2439496
+
+        0.245972
+
+        0.2480558
+
+        0.2498905
+
+        0.2514129
+
+        0.2527847
+
+        0.2546166
+
+        0.2563021
+
+        0.2580127
+
+        0.2594516
+
+        0.2608183
+
+        0.262791
+
+        0.2645099
+
+        0.2659844
+
+        0.2681144
+
+        0.2710469
+
+        0.2728883
+
+        0.2744429
+
+        0.2759624
+
+        0.277601
+
+        0.2795219
+
+        0.2811249
+
+        0.2825634
+
+        0.2843075
+
+        0.2862541
+
+        0.2880893
+
+        0.2896652
+
+        0.2910749
+
+        0.2924913
+
+        0.2940302
+
+        0.2954852
+
+        0.2970458
+
+        0.2987325
+
+        0.3007637
+
+        0.302956
+
+        0.304751
+
+        0.3065088
+
+        0.3081584
+
+        0.3096956
+
+        0.3113971
+
+        0.313692
+
+        0.3157311
+
+        0.3183898
+
+        0.3199224
+
+        0.321316
+
+        0.3227563
+
+        0.3241534
+
+        0.3256887
+
+        0.3274291
+
+        0.3290893
+
+        0.3305344
+
+        0.332481
+
+        0.3340685
+
+        0.3358291
+
+        0.3377346
+
+        0.3397145
+
+        0.3413397
+
+        0.3427422
+
+        0.3442722
+
+        0.3470692
+
+        0.3493534
+
+        0.3510485
+
+        0.3633536
+
+        0.3652936
+
+        0.3675932
+
+        0.3700606
+
+        0.3720669
+
+        0.3742175
+
+        0.3761572
+
+        0.3801998
+
+        0.3827
+
+        0.3848666
+
+        0.3867039
+
+        0.3885368
+
+        0.3901942
+
+        0.3925583
+
+        0.3955112
+
+        0.3982433
+
+        0.4004101
+
+        0.402894
+
+        0.4049068
+
+        0.4069448
+
+        0.4093693
+
+        0.4113431
+
+        0.4141248
+
+        0.4160478
+
+        0.4184265
+
+        0.420276
+
+        0.422105
+
+        0.4244188
+
+        0.4261904
+
+        0.4284117
+
+        0.4308582
+
+        0.4329716
+
+        0.4354132
+
+        0.4379641
+
+        0.4403757
+
+        0.4422672
+
+        0.4442322
+
+        0.4469813
+
+        0.4494379
+
+        0.4512037
+
+        0.4531432
+
+        0.4560605
+
+        0.4581307
+
+        0.4600118
+
+        0.4620078
+
+        0.4645453
+
+        0.4665448
+
+        0.4691101
+
+        0.4710116
+
+        0.4730726
+
+        0.4750629
+
+        0.4769592
+
+        0.4797733
+
+        0.4820453
+
+        0.4840787
+
+        0.4870906
+
+        0.4890331
+
+        0.4906735
+
+        0.4923575
+
+        0.4944294
+
+        0.4966678
+
+        0.498909
+
+        0.5022606
+
+        0.5062771
+
+        0.5088698
+
+        0.5112339
+
+        0.5134464
+
+        0.516343
+
+        0.5199663
+
+        0.5260079
+
+        0.5289983
+
+        0.5324875
+
+        0.5443947
+
+        0.5487734
+
+        0.5517486
+
+        0.5693763
+
+        0.5719526
+
+        0.573797
+
+        0.5756043
+
+        0.5784087
+
+        0.5811682
+
+        0.5837876
+
+        0.5860702
+
+        0.5883473
+
+        0.5906579
+
+        0.592783
+
+        0.5954055
+
+        0.5980967
+
+        0.6005908
+
+        0.6038744
+
+        0.6060307
+
+        0.60841
+
+        0.6114258
+
+        0.6163557
+
+        0.6197579
+
+        0.622535
+
+        0.6255017
+
+        0.6298438
+
+        0.6320739
+
+        0.6341162
+
+        0.6371251
+
+        0.6392935
+
+        0.6421754
+
+        0.6443889
+
+        0.6473737
+
+        0.6497
+
+        0.6522918
+
+        0.654122
+
+        0.6558589
+
+        0.6580534
+
+        0.6598275
+
+        0.662421
+
+        0.6650851
+
+        0.6675795
+
+        0.6713485
+
+        0.6833916
+
+        0.685675
+
+        0.6886275
+
+        0.6910537
+
+        0.6929429
+
+        0.6950728
+
+        0.6973491
+
+        0.6999168
+
+        0.703773
+
+        0.7060527
+
+        0.7086995
+
+        0.7106228
+
+        0.7126829
+
+        0.7148544
+
+        0.7169888
+
+        0.7209125
+
+        0.7230336
+
+        0.7261124
+
+        0.7283882
+
+        0.7307453
+
+        0.7328383
+
+        0.7369733
+
+        0.7396749
+
+        0.7421262
+
+        0.744388
+
+        0.7472221
+
+        0.7500706
+
+        0.7536466
+
+        0.7744074
+
+        0.7777253
+
+        0.7814777
+
+        0.7844486
+
+        0.7867643
+
+        0.7887413
+
+        0.7907588
+
+        0.7928936
+
+        0.7954377
+
+        0.7993559
+
+        0.8018625
+
+        0.8040043
+
+        0.806178
+
+        0.8084894
+
+        0.8107724
+
+        0.8138701
+
+        0.8156708
+
+        0.8175647
+
+        0.8192987
+
+        0.8210005
+
+        0.8228431
+
+        0.8248805
+
+        0.8270046
+
+        0.8290728
+
+        0.8308977
+
+        0.8326785
+
+        0.8344537
+
+        0.8365734
+
+        0.8383346
+
+        0.8400358
+
+        0.8424218
+
+        0.8450308
+
+        0.8473567
+
+        0.8494976
+
+        0.8514096
+
+        0.8531784
+
+        0.8550363
+
+        0.8569962
+
+        0.8593486
+
+        0.8613245
+
+        0.8635406
+
+        0.865533
+
+        0.8679318
+
+        0.870259
+
+        0.8723527
+
+        0.8743517
+
+        0.876086
+
+        0.8776937
+
+        0.8795521
+
+        0.8814237
+
+        0.8831314
+
+        0.8847985
+
+        0.8862981
+
+        0.8879017
+
+        0.8895831
+
+        0.8911688
+
+        0.8926538
+
+        0.8942203
+
+        0.8961028
+
+        0.8978675
+
+        0.8995314
+
+        0.9013732
+
+        0.9031242
+
+        0.9054895
+
+        0.9085111
+
+        0.9105341
+
+        0.9130529
+
+        0.9151704
+
+        0.9172577
+
+        0.9193399
+
+        0.9214957
+
+        0.9234989
+
+        0.9252648
+
+        0.9274133
+
+        0.929952
+
+        0.9318784
+
+        0.9336327
+
+        0.9361421
+
+        0.9382482
+
+        0.9399381
+
+        0.9414932
+
+        0.9430979
+
+        0.9446986
+
+        0.9473726
+
+        0.9497005
+
+        0.952098
+
+        0.9549031
+
+        0.9696969
+
+        0.9723004
+
+        0.9743221
+
+        0.9760525
+
+        0.9781815
+
+        0.9801643
+
+        0.9829866
+
+        0.9851701
+
+        0.9870425
+
+        0.9888412
+
+        0.9905065
+
+        0.9920861
+
+        0.9939272
+
+        0.9960396
+
+        0.9982013
+
+        1.000373
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.008786
+
+        0.0149874
+
+        0.0207987
+
+        0.0309881
+
+        0.0327888
+
+        0.0343395
+
+        0.0360042
+
+        0.0379817
+
+        0.0395768
+
+        0.0415439
+
+        0.0433765
+
+        0.0450429
+
+        0.04668
+
+        0.0483365
+
+        0.049926
+
+        0.0518023
+
+        0.0537655
+
+        0.0554868
+
+        0.058273
+
+        0.0612846
+
+        0.06339259
+
+        0.06508829
+
+        0.06677429
+
+        0.06908219
+
+        0.07097609
+
+        0.07323259
+
+        0.07538629
+
+        0.07794769
+
+        0.08062089
+
+        0.08273009
+
+        0.08443579
+
+        0.08620009
+
+        0.08817909
+
+        0.09093149
+
+        0.09348029
+
+        0.09531779
+
+        0.09728809
+
+        0.09902249
+
+        0.1005353
+
+        0.1021197
+
+        0.1039778
+
+        0.1063236
+
+        0.1083763
+
+        0.109995
+
+        0.111386
+
+        0.1129465
+
+        0.114587
+
+        0.1166149
+
+        0.1189292
+
+        0.1222225
+
+        0.1246635
+
+        0.1265561
+
+        0.1283747
+
+        0.1301621
+
+        0.1318073
+
+        0.1336778
+
+        0.1369131
+
+        0.1394389
+
+        0.1411946
+
+        0.1429369
+
+        0.1446341
+
+        0.146295
+
+        0.1480052
+
+        0.1497588
+
+        0.1524616
+
+        0.1547236
+
+        0.1566441
+
+        0.1710901
+
+        0.1738833
+
+        0.1757368
+
+        0.1778787
+
+        0.1794579
+
+        0.1816679
+
+        0.1839823
+
+        0.1858184
+
+        0.1881143
+
+        0.1900099
+
+        0.1918401
+
+        0.1937927
+
+        0.1955163
+
+        0.1995373
+
+        0.2044229
+
+        0.2095436
+
+        0.2151624
+
+        0.2213561
+
+        0.229678
+
+        0.2328647
+
+        0.2346439
+
+        0.2364515
+
+        0.2383748
+
+        0.2404322
+
+        0.2420537
+
+        0.2441312
+
+        0.247611
+
+        0.2495577
+
+        0.2518208
+
+        0.2561387
+
+        0.259805
+
+        0.2630981
+
+        0.2672248
+
+        0.2700624
+
+        0.2821903
+
+        0.2878119
+
+        0.3014583
+
+        0.3083248
+
+        0.3136998
+
+        0.3175987
+
+        0.3300331
+
+        0.3344223
+
+        0.3371993
+
+        0.3425485
+
+        0.3446544
+
+        0.349918
+
+        0.3525078
+
+        0.354623
+
+        0.3573059
+
+        0.3750612
+
+        0.3775387
+
+        0.379393
+
+        0.381267
+
+        0.3870929
+
+        0.3898266
+
+        0.3949958
+
+        0.3994631
+
+        0.4014058
+
+        0.4035191
+
+        0.4063884
+
+        0.4087329
+
+        0.4157078
+
+        0.4195449
+
+        0.4217336
+
+        0.4271044
+
+        0.4329057
+
+        0.4349289
+
+        0.4408906
+
+        0.4516704
+
+        0.4554923
+
+        0.4634618
+
+        0.4732169
+
+        0.4802497
+
+        0.4871677
+
+        0.4907919
+
+        0.4947369
+
+        0.4981259
+
+        0.5008108
+
+        0.5064446
+
+        0.5098702
+
+        0.5138947
+
+        0.5189276
+
+        0.5207599
+
+        0.5296687
+
+        0.5333681
+
+        0.5361101
+
+        0.5379893
+
+        0.5407078
+
+        0.543278
+
+        0.5448841
+
+        0.54738
+
+        0.5490654
+
+        0.551362
+
+        0.5530715
+
+        0.5554377
+
+        0.5602458
+
+        0.5740015
+
+        0.5768083
+
+        0.5792401
+
+        0.5811704
+
+        0.5828637
+
+        0.5862016
+
+        0.5909013
+
+        0.5937535
+
+        0.595795
+
+        0.5985219
+
+        0.6011205
+
+        0.6051272
+
+        0.6068981
+
+        0.6094827
+
+        0.6124918
+
+        0.6145221
+
+        0.6165138
+
+        0.6210672
+
+        0.6237926
+
+        0.6265345
+
+        0.6294006
+
+        0.6313732
+
+        0.6331151
+
+        0.6362913
+
+        0.6389095
+
+        0.6412233
+
+        0.6433614
+
+        0.6449422
+
+        0.6465877
+
+        0.6482332
+
+        0.6540182
+
+        0.6564832
+
+        0.6584319
+
+        0.6598634
+
+        0.6612108
+
+        0.6625589
+
+        0.6639414
+
+        0.6652773
+
+        0.6666003
+
+        0.6679738
+
+        0.6703919
+
+        0.673716
+
+        0.6782167
+
+        0.6816608
+
+        0.6841425
+
+        0.686871
+
+        0.69019
+
+        0.6933933
+
+        0.696123
+
+        0.699035
+
+        0.7016869
+
+        0.7040914
+
+        0.7062726
+
+        0.7080613
+
+        0.7096414
+
+        0.7113713
+
+        0.7136328
+
+        0.71533
+
+        0.7264464
+
+        0.7296992
+
+        0.7317522
+
+        0.7337368
+
+        0.7356147
+
+        0.7376398
+
+        0.7399163
+
+        0.7416391
+
+        0.7439921
+
+        0.7458234
+
+        0.7476031
+
+        0.7494987
+
+        0.7512705
+
+        0.7532196
+
+        0.7547417
+
+        0.7565
+
+        0.7592042
+
+        0.7617519
+
+        0.7760511
+
+        0.7784573
+
+        0.7802277
+
+        0.7817519
+
+        0.7847088
+
+        0.7865475
+
+        0.7884811
+
+        0.7912921
+
+        0.7932384
+
+        0.7947368
+
+        0.7961598
+
+        0.7978885
+
+        0.7996281
+
+        0.8013684
+
+        0.8032058
+
+        0.8056498
+
+        0.8075598
+
+        0.8090776
+
+        0.8107291
+
+        0.8121982
+
+        0.8140253
+
+        0.8173614
+
+        0.8193349
+
+        0.8214434
+
+        0.823584
+
+        0.825456
+
+        0.8271981
+
+        0.8288985
+
+        0.830605
+
+        0.8322275
+
+        0.8340508
+
+        0.8359115
+
+        0.8385661
+
+        0.8404144
+
+        0.8423629
+
+        0.8440652
+
+        0.8455459
+
+        0.8469866
+
+        0.8484656
+
+        0.8507305
+
+        0.8531078
+
+        0.8549402
+
+        0.8567542
+
+        0.8587679
+
+        0.8607281
+
+        0.8625242
+
+        0.8644419
+
+        0.8663434
+
+        0.8682392
+
+        0.8702807
+
+        0.8725418
+
+        0.8745168
+
+        0.8762175
+
+        0.8778784
+
+        0.8795518
+
+        0.881911
+
+        0.8848521
+
+        0.8869491
+
+        0.8889267
+
+        0.8907906
+
+        0.8927732
+
+        0.8945811
+
+        0.8964205
+
+        0.8983765
+
+        0.9002455
+
+        0.9030474
+
+        0.9051589
+
+        0.9072428
+
+        0.9091884
+
+        0.9109622
+
+        0.9132405
+
+        0.9153942
+
+        0.9174002
+
+        0.9192712
+
+        0.9212641
+
+        0.9232832
+
+        0.9255096
+
+        0.9280494
+
+        0.9303942
+
+        0.9321589
+
+        0.9339922
+
+        0.9359749
+
+        0.9384697
+
+        0.9404219
+
+        0.9422285
+
+        0.9459447
+
+        0.9479181
+
+        0.949828
+
+        0.9517592
+
+        0.9542046
+
+        0.9559639
+
+        0.9584323
+
+        0.9613659
+
+        0.9633127
+
+        0.9787564
+
+        0.9806406
+
+        0.9822253
+
+        0.9845737
+
+        0.9889128
+
+        0.9914038
+
+        0.9955196
+
+        0.9987549
+
+        1.002891
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0037843
+
+        0.0102184
+
+        0.0134465
+
+        0.0212659
+
+        0.0288786
+
+        0.0330673
+
+        0.0354209
+
+        0.0386667
+
+        0.0410532
+
+        0.04285
+
+        0.0445889
+
+        0.0483048
+
+        0.05056
+
+        0.0526999
+
+        0.0551932
+
+        0.0591427
+
+        0.0610572
+
+        0.0630896
+
+        0.0657756
+
+        0.0699156
+
+        0.0724917
+
+        0.0758004
+
+        0.0782675
+
+        0.0838805
+
+        0.0867183
+
+        0.0914678
+
+        0.0952314
+
+        0.1000861
+
+        0.1022656
+
+        0.1064836
+
+        0.1083938
+
+        0.1101725
+
+        0.1118648
+
+        0.1139335
+
+        0.1164064
+
+        0.1189699
+
+        0.1213541
+
+        0.1230872
+
+        0.1245926
+
+        0.1263244
+
+        0.1279031
+
+        0.1297464
+
+        0.1319701
+
+        0.1345706
+
+        0.1365496
+
+        0.1399098
+
+        0.1429714
+
+        0.1446879
+
+        0.1466627
+
+        0.1493501
+
+        0.1515516
+
+        0.1566801
+
+        0.1587355
+
+        0.1604636
+
+        0.1621834
+
+        0.1644465
+
+        0.1685264
+
+        0.1703009
+
+        0.1718399
+
+        0.1735914
+
+        0.1751395
+
+        0.1881716
+
+        0.19141
+
+        0.1929748
+
+        0.1944023
+
+        0.1971696
+
+        0.1993802
+
+        0.20121
+
+        0.2028827
+
+        0.2044194
+
+        0.2058973
+
+        0.2074534
+
+        0.2090424
+
+        0.2108385
+
+        0.222519
+
+        0.2241967
+
+        0.2259989
+
+        0.2275845
+
+        0.2292059
+
+        0.2316896
+
+        0.2335873
+
+        0.2352415
+
+        0.2369862
+
+        0.2387411
+
+        0.2403084
+
+        0.2422294
+
+        0.2442393
+
+        0.2460616
+
+        0.2478586
+
+        0.249495
+
+        0.2509099
+
+        0.2525019
+
+        0.2547265
+
+        0.2573159
+
+        0.2613133
+
+        0.2634946
+
+        0.2661794
+
+        0.2680513
+
+        0.2696049
+
+        0.2710353
+
+        0.2730244
+
+        0.2748902
+
+        0.2769478
+
+        0.2785595
+
+        0.2801584
+
+        0.2818278
+
+        0.2835358
+
+        0.2859759
+
+        0.2894654
+
+        0.291326
+
+        0.2932377
+
+        0.2951357
+
+        0.296931
+
+        0.2993088
+
+        0.3014033
+
+        0.3034728
+
+        0.3054091
+
+        0.3070654
+
+        0.3084529
+
+        0.309813
+
+        0.3111471
+
+        0.3127727
+
+        0.315823
+
+        0.317812
+
+        0.3199718
+
+        0.3223564
+
+        0.3243527
+
+        0.326115
+
+        0.3276569
+
+        0.3293307
+
+        0.3314162
+
+        0.3342878
+
+        0.3375513
+
+        0.3392994
+
+        0.3407291
+
+        0.342123
+
+        0.3439182
+
+        0.3458011
+
+        0.3478102
+
+        0.3496173
+
+        0.3533012
+
+        0.3558535
+
+        0.3575727
+
+        0.3606029
+
+        0.363271
+
+        0.3660925
+
+        0.3691921
+
+        0.3719841
+
+        0.3750192
+
+        0.3767558
+
+        0.3927084
+
+        0.3945513
+
+        0.4024675
+
+        0.4068316
+
+        0.4092134
+
+        0.411228
+
+        0.4165222
+
+        0.4237573
+
+        0.4298838
+
+        0.4326914
+
+        0.4343748
+
+        0.4373922
+
+        0.4398181
+
+        0.4424591
+
+        0.4463227
+
+        0.4502546
+
+        0.4570425
+
+        0.4602916
+
+        0.4633768
+
+        0.4681551
+
+        0.4710048
+
+        0.4770977
+
+        0.4855938
+
+        0.4892435
+
+        0.4923546
+
+        0.4948631
+
+        0.4987926
+
+        0.5024799
+
+        0.5063022
+
+        0.5108435
+
+        0.5166076
+
+        0.5207052
+
+        0.5233947
+
+        0.5258732
+
+        0.5283924
+
+        0.5326899
+
+        0.5359159
+
+        0.5385616
+
+        0.5410159
+
+        0.5424852
+
+        0.5448585
+
+        0.5474162
+
+        0.5492886
+
+        0.5526429
+
+        0.5554926
+
+        0.5583022
+
+        0.5607204
+
+        0.5622095
+
+        0.5650261
+
+        0.5696706
+
+        0.5722011
+
+        0.5738059
+
+        0.5763972
+
+        0.5803831
+
+        0.6020177
+
+        0.6051718
+
+        0.6071489
+
+        0.6088362
+
+        0.610458
+
+        0.6157522
+
+        0.617771
+
+        0.6200645
+
+        0.6222022
+
+        0.6240049
+
+        0.6258167
+
+        0.6284107
+
+        0.6309103
+
+        0.6337394
+
+        0.636371
+
+        0.638706
+
+        0.6408864
+
+        0.6431237
+
+        0.6474701
+
+        0.6504629
+
+        0.6538487
+
+        0.6569758
+
+        0.6596477
+
+        0.6626316
+
+        0.6675147
+
+        0.6755633
+
+        0.6853464
+
+        0.6884215
+
+        0.6907728
+
+        0.6933714
+
+        0.6962159
+
+        0.699727
+
+        0.7022063
+
+        0.7049687
+
+        0.7079088
+
+        0.7108285
+
+        0.7136641
+
+        0.7170337
+
+        0.7194226
+
+        0.7249048
+
+        0.7278771
+
+        0.7300298
+
+        0.7400725
+
+        0.7445844
+
+        0.7471082
+
+        0.7492127
+
+        0.7512626
+
+        0.7542029
+
+        0.7573312
+
+        0.7597857
+
+        0.7618447
+
+        0.7641447
+
+        0.7670237
+
+        0.7697479
+
+        0.7719525
+
+        0.7739954
+
+        0.7758074
+
+        0.7775601
+
+        0.7793961
+
+        0.7821559
+
+        0.7974994
+
+        0.7999712
+
+        0.802555
+
+        0.8044296
+
+        0.8061403
+
+        0.8079706
+
+        0.8097297
+
+        0.8113842
+
+        0.8135222
+
+        0.8176948
+
+        0.8205562
+
+        0.8235558
+
+        0.8256465
+
+        0.8295293
+
+        0.8327638
+
+        0.8372472
+
+        0.8396048
+
+        0.8414206
+
+        0.843248
+
+        0.8476988
+
+        0.8497885
+
+        0.8518008
+
+        0.8572366
+
+        0.8591651
+
+        0.8608182
+
+        0.8636788
+
+        0.866118
+
+        0.869803
+
+        0.8714874
+
+        0.8729314
+
+        0.8747087
+
+        0.87643
+
+        0.8787404
+
+        0.8828306
+
+        0.8846803
+
+        0.8867159
+
+        0.8892285
+
+        0.8909513
+
+        0.8926823
+
+        0.8950492
+
+        0.8971639
+
+        0.9014845
+
+        0.9034283
+
+        0.9052398
+
+        0.9071389
+
+        0.9094397
+
+        0.9114509
+
+        0.9150884
+
+        0.9174991
+
+        0.9203036
+
+        0.9222993
+
+        0.9244069
+
+        0.9280167
+
+        0.9299547
+
+        0.9319396
+
+        0.9338381
+
+        0.9356363
+
+        0.937193
+
+        0.9386358
+
+        0.9405555
+
+        0.942315
+
+        0.9454088
+
+        0.9473057
+
+        0.9493181
+
+        0.9521397
+
+        0.954199
+
+        0.9564949
+
+        0.9585966
+
+        0.9601644
+
+        0.9632792
+
+        0.9653584
+
+        0.9671324
+
+        0.9686872
+
+        0.970098
+
+        0.9717358
+
+        0.9733111
+
+        0.9746803
+
+        0.9770894
+
+        0.9789404
+
+        0.9807295
+
+        0.9825069
+
+        0.9976104
+
+        1.00074
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0019551
+
+        0.0035569
+
+        0.0051528
+
+        0.0066738
+
+        0.0081969
+
+        0.009660499
+
+        0.0113251
+
+        0.0130942
+
+        0.0148454
+
+        0.0164974
+
+        0.0181533
+
+        0.0202478
+
+        0.0218362
+
+        0.0234582
+
+        0.0252099
+
+        0.0274262
+
+        0.0291285
+
+        0.0309109
+
+        0.0324827
+
+        0.0339024
+
+        0.0355204
+
+        0.03695481
+
+        0.03838591
+
+        0.03977741
+
+        0.04143601
+
+        0.0431194
+
+        0.0447365
+
+        0.04655501
+
+        0.04812941
+
+        0.0496043
+
+        0.0510634
+
+        0.0526302
+
+        0.05500171
+
+        0.05656271
+
+        0.05880101
+
+        0.06033951
+
+        0.06184711
+
+        0.06428181
+
+        0.06599381
+
+        0.06744861
+
+        0.06887071
+
+        0.07024631
+
+        0.07160361
+
+        0.07337211
+
+        0.07509201
+
+        0.07658301
+
+        0.07800921
+
+        0.07962491
+
+        0.08167981
+
+        0.08329351
+
+        0.08485201
+
+        0.08722511
+
+        0.08916641
+
+        0.09082981
+
+        0.09252591
+
+        0.09407192
+
+        0.09593422
+
+        0.09809832
+
+        0.1000219
+
+        0.1015629
+
+        0.1034294
+
+        0.1053206
+
+        0.106863
+
+        0.1086507
+
+        0.1102112
+
+        0.1118881
+
+        0.1136552
+
+        0.1153674
+
+        0.1168326
+
+        0.1191839
+
+        0.1210507
+
+        0.1225579
+
+        0.1240254
+
+        0.1261108
+
+        0.1276481
+
+        0.1292589
+
+        0.1311358
+
+        0.1327047
+
+        0.1346716
+
+        0.1364292
+
+        0.1378844
+
+        0.1394247
+
+        0.1408638
+
+        0.1422793
+
+        0.1437042
+
+        0.1452304
+
+        0.1469473
+
+        0.1485022
+
+        0.150383
+
+        0.1523041
+
+        0.1542875
+
+        0.155954
+
+        0.1574139
+
+        0.1589354
+
+        0.160427
+
+        0.1619809
+
+        0.1710738
+
+        0.1733071
+
+        0.1751501
+
+        0.1769534
+
+        0.1786818
+
+        0.1802659
+
+        0.1821762
+
+        0.1838243
+
+        0.1854002
+
+        0.1871585
+
+        0.1887159
+
+        0.2015716
+
+        0.203263
+
+        0.2047346
+
+        0.2062781
+
+        0.2076933
+
+        0.2091566
+
+        0.2105963
+
+        0.2126338
+
+        0.2144703
+
+        0.2165606
+
+        0.2182928
+
+        0.2202854
+
+        0.2218197
+
+        0.22328
+
+        0.2248515
+
+        0.2263878
+
+        0.2280395
+
+        0.2297216
+
+        0.2314515
+
+        0.2329101
+
+        0.2343917
+
+        0.2369862
+
+        0.2386616
+
+        0.2400834
+
+        0.2414402
+
+        0.2432609
+
+        0.2463344
+
+        0.2480931
+
+        0.2495439
+
+        0.2509297
+
+        0.2525558
+
+        0.2542231
+
+        0.2558052
+
+        0.2573172
+
+        0.2588603
+
+        0.2603035
+
+        0.2616632
+
+        0.2633361
+
+        0.2652568
+
+        0.2680893
+
+        0.2696529
+
+        0.2710253
+
+        0.2724078
+
+        0.2741973
+
+        0.2757799
+
+        0.2771601
+
+        0.2785762
+
+        0.2801379
+
+        0.2817514
+
+        0.283272
+
+        0.2851284
+
+        0.2881791
+
+        0.2907991
+
+        0.2926033
+
+        0.2940882
+
+        0.2956744
+
+        0.2975864
+
+        0.2993412
+
+        0.3013257
+
+        0.3028424
+
+        0.3051138
+
+        0.3072361
+
+        0.3087533
+
+        0.3101262
+
+        0.311742
+
+        0.3134997
+
+        0.3151793
+
+        0.3168496
+
+        0.318586
+
+        0.3207757
+
+        0.3224208
+
+        0.3239702
+
+        0.3254225
+
+        0.3268976
+
+        0.3283964
+
+        0.3306364
+
+        0.3323282
+
+        0.3339611
+
+        0.3357414
+
+        0.337447
+
+        0.3389545
+
+        0.340447
+
+        0.342052
+
+        0.3435777
+
+        0.3451381
+
+        0.3475369
+
+        0.3491834
+
+        0.3506756
+
+        0.3531516
+
+        0.3550012
+
+        0.3566112
+
+        0.35816
+
+        0.359702
+
+        0.361164
+
+        0.362937
+
+        0.3648989
+
+        0.3666162
+
+        0.3681655
+
+        0.3695646
+
+        0.370954
+
+        0.3724297
+
+        0.373773
+
+        0.3752879
+
+        0.3767497
+
+        0.3781395
+
+        0.379653
+
+        0.3818712
+
+        0.3839252
+
+        0.3858304
+
+        0.3876227
+
+        0.389107
+
+        0.4024937
+
+        0.4043646
+
+        0.4062703
+
+        0.4079368
+
+        0.4095872
+
+        0.4115017
+
+        0.4138849
+
+        0.4159802
+
+        0.4176902
+
+        0.41924
+
+        0.4208313
+
+        0.4223441
+
+        0.4238846
+
+        0.4254397
+
+        0.4270195
+
+        0.4290279
+
+        0.4308493
+
+        0.432476
+
+        0.434179
+
+        0.4359314
+
+        0.4375536
+
+        0.4391904
+
+        0.4407605
+
+        0.4424109
+
+        0.4452399
+
+        0.4477302
+
+        0.4497555
+
+        0.4516436
+
+        0.4538219
+
+        0.4563657
+
+        0.4587678
+
+        0.4611576
+
+        0.4631015
+
+        0.4654224
+
+        0.4675881
+
+        0.4694426
+
+        0.4712045
+
+        0.4729603
+
+        0.4757645
+
+        0.4778836
+
+        0.479882
+
+        0.4819729
+
+        0.4841374
+
+        0.4864744
+
+        0.4893792
+
+        0.491974
+
+        0.4940469
+
+        0.4967117
+
+        0.4993599
+
+        0.501594
+
+        0.5038162
+
+        0.5066383
+
+        0.5089581
+
+        0.511027
+
+        0.5129936
+
+        0.5150871
+
+        0.5170703
+
+        0.5193642
+
+        0.521694
+
+        0.5236356
+
+        0.525474
+
+        0.5272887
+
+        0.5291201
+
+        0.5314689
+
+        0.5334156
+
+        0.5358681
+
+        0.5382868
+
+        0.5400897
+
+        0.5417537
+
+        0.5451621
+
+        0.5472237
+
+        0.5491455
+
+        0.5509527
+
+        0.553697
+
+        0.5558
+
+        0.5576311
+
+        0.559468
+
+        0.561174
+
+        0.5630113
+
+        0.5651665
+
+        0.5671834
+
+        0.5691222
+
+        0.5709155
+
+        0.5726968
+
+        0.5744303
+
+        0.57622
+
+        0.5778642
+
+        0.5797853
+
+        0.5817323
+
+        0.588015
+
+        0.5898194
+
+        0.6035169
+
+        0.6055827
+
+        0.609243
+
+        0.61084
+
+        0.6125346
+
+        0.6143057
+
+        0.6163577
+
+        0.6185138
+
+        0.6208124
+
+        0.6224071
+
+        0.6262031
+
+        0.6280634
+
+        0.6302542
+
+        0.6326446
+
+        0.6343727
+
+        0.6360616
+
+        0.6375403
+
+        0.6389848
+
+        0.6403982
+
+        0.6417606
+
+        0.6440936
+
+        0.6457407
+
+        0.647917
+
+        0.6496329
+
+        0.6511004
+
+        0.6526254
+
+        0.6543739
+
+        0.6560356
+
+        0.6575344
+
+        0.6590072
+
+        0.6615685
+
+        0.6641144
+
+        0.6660452
+
+        0.6676539
+
+        0.6692085
+
+        0.6706141
+
+        0.6719791
+
+        0.6733559
+
+        0.6747075
+
+        0.6763608
+
+        0.6797786
+
+        0.6815944
+
+        0.6831512
+
+        0.6846762
+
+        0.6865647
+
+        0.6881002
+
+        0.6894895
+
+        0.6922411
+
+        0.6941109
+
+        0.6972096
+
+        0.6990054
+
+        0.7005087
+
+        0.70198
+
+        0.7035068
+
+        0.7049364
+
+        0.7064875
+
+        0.7087635
+
+        0.7108076
+
+        0.7150798
+
+        0.718186
+
+        0.7201651
+
+        0.72258
+
+        0.7244473
+
+        0.7280784
+
+        0.7402
+
+        0.7422411
+
+        0.7446219
+
+        0.7463939
+
+        0.748208
+
+        0.7509149
+
+        0.7537169
+
+        0.7557575
+
+        0.758666
+
+        0.7619343
+
+        0.7640455
+
+        0.7660036
+
+        0.7681396
+
+        0.7734944
+
+        0.7756835
+
+        0.7772176
+
+        0.7786591
+
+        0.7826661
+
+        0.8030494
+
+        0.8191528
+
+        0.821062
+
+        0.8228993
+
+        0.8244877
+
+        0.8260744
+
+        0.8275814
+
+        0.8291038
+
+        0.831016
+
+        0.8331877
+
+        0.8350328
+
+        0.8366288
+
+        0.8380886
+
+        0.8395392
+
+        0.8409525
+
+        0.8423615
+
+        0.8438104
+
+        0.8454105
+
+        0.8470496
+
+        0.848921
+
+        0.8511436
+
+        0.8531205
+
+        0.8547572
+
+        0.8563212
+
+        0.8578084
+
+        0.8592313
+
+        0.8605898
+
+        0.8621867
+
+        0.8640479
+
+        0.866029
+
+        0.8675292
+
+        0.8690407
+
+        0.8704422
+
+        0.8718546
+
+        0.8732594
+
+        0.8747798
+
+        0.8764427
+
+        0.8780235
+
+        0.8795789
+
+        0.8817302
+
+        0.8843258
+
+        0.8867973
+
+        0.8885306
+
+        0.8900942
+
+        0.8915337
+
+        0.8929696
+
+        0.8945878
+
+        0.8965535
+
+        0.8985397
+
+        0.9000703
+
+        0.9014955
+
+        0.9029549
+
+        0.9044974
+
+        0.9061359
+
+        0.9075494
+
+        0.9089496
+
+        0.910332
+
+        0.911719
+
+        0.9138071
+
+        0.9155625
+
+        0.9170057
+
+        0.9187095
+
+        0.920337
+
+        0.9217331
+
+        0.9232475
+
+        0.9246978
+
+        0.9262084
+
+        0.9278979
+
+        0.9298753
+
+        0.9315608
+
+        0.9330049
+
+        0.934634
+
+        0.9361303
+
+        0.9375287
+
+        0.9389554
+
+        0.940321
+
+        0.9416649
+
+        0.9430538
+
+        0.9451299
+
+        0.9470268
+
+        0.9486421
+
+        0.9500728
+
+        0.9592358
+
+        0.9613961
+
+        0.9631409
+
+        0.965157
+
+        0.9667116
+
+        0.9682294
+
+        0.9696214
+
+        0.9709953
+
+        0.9724333
+
+        0.9739127
+
+        0.9759292
+
+        0.9779028
+
+        0.9800139
+
+        0.9818131
+
+        0.9835613
+
+        0.9851434
+
+        0.9868596
+
+        0.9884627
+
+        0.9899564
+
+        0.9916449
+
+        0.9931521
+
+        0.9945694
+
+        0.9973867
+
+        0.9992471
+
+        1.000876
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0022532
+
+        0.0041272
+
+        0.0056341
+
+        0.007177399
+
+        0.0213347
+
+        0.0232383
+
+        0.024867
+
+        0.0264181
+
+        0.0281705
+
+        0.0301268
+
+        0.0318845
+
+        0.0335352
+
+        0.035317
+
+        0.0369286
+
+        0.0384246
+
+        0.0398451
+
+        0.0413271
+
+        0.042929
+
+        0.0444395
+
+        0.0461308
+
+        0.047732
+
+        0.0492708
+
+        0.0513719
+
+        0.053905
+
+        0.0556755
+
+        0.0573018
+
+        0.0588119
+
+        0.060488
+
+        0.0626922
+
+        0.0645656
+
+        0.0668134
+
+        0.0686801
+
+        0.0701055
+
+        0.071548
+
+        0.0729762
+
+        0.0744383
+
+        0.07595491
+
+        0.07742131
+
+        0.07898111
+
+        0.08071481
+
+        0.08252801
+
+        0.08467501
+
+        0.08628411
+
+        0.08771891
+
+        0.08910471
+
+        0.09053461
+
+        0.09190471
+
+        0.09337602
+
+        0.09507012
+
+        0.09712081
+
+        0.09864521
+
+        0.1001303
+
+        0.1016379
+
+        0.1031325
+
+        0.1045971
+
+        0.1063518
+
+        0.1077946
+
+        0.1093017
+
+        0.110769
+
+        0.1138134
+
+        0.1156622
+
+        0.1174281
+
+        0.1192142
+
+        0.1208426
+
+        0.1223984
+
+        0.1239056
+
+        0.1253501
+
+        0.1272908
+
+        0.1296143
+
+        0.1312776
+
+        0.1329386
+
+        0.1345157
+
+        0.135989
+
+        0.1374999
+
+        0.1389692
+
+        0.140398
+
+        0.1420171
+
+        0.1441376
+
+        0.1458772
+
+        0.1474627
+
+        0.1488956
+
+        0.1507208
+
+        0.1523302
+
+        0.1538231
+
+        0.1553165
+
+        0.1568425
+
+        0.158542
+
+        0.1601336
+
+        0.1618061
+
+        0.1635488
+
+        0.1650029
+
+        0.1665019
+
+        0.1679096
+
+        0.1692669
+
+        0.1706113
+
+        0.1719886
+
+        0.1733434
+
+        0.1750427
+
+        0.1765732
+
+        0.1780666
+
+        0.1798101
+
+        0.1812994
+
+        0.1827529
+
+        0.1849451
+
+        0.1865597
+
+        0.1879776
+
+        0.189391
+
+        0.191337
+
+        0.1929031
+
+        0.1944207
+
+        0.1962437
+
+        0.1977931
+
+        0.1991844
+
+        0.2009277
+
+        0.2023481
+
+        0.2038791
+
+        0.2053462
+
+        0.2076452
+
+        0.2228181
+
+        0.2245407
+
+        0.2259916
+
+        0.2276377
+
+        0.2293024
+
+        0.2310623
+
+        0.2326266
+
+        0.2341867
+
+        0.2356563
+
+        0.2379037
+
+        0.2398885
+
+        0.2415597
+
+        0.2432476
+
+        0.2458672
+
+        0.2477764
+
+        0.2495582
+
+        0.252174
+
+        0.2551644
+
+        0.257331
+
+        0.2591076
+
+        0.2613336
+
+        0.2641774
+
+        0.2662725
+
+        0.2682278
+
+        0.2699552
+
+        0.2716993
+
+        0.2734799
+
+        0.2753582
+
+        0.2771585
+
+        0.2790819
+
+        0.2811929
+
+        0.2835239
+
+        0.2859155
+
+        0.2878325
+
+        0.2896584
+
+        0.2914895
+
+        0.2933318
+
+        0.2954682
+
+        0.2981573
+
+        0.3036306
+
+        0.3117953
+
+        0.3142137
+
+        0.3161128
+
+        0.3182542
+
+        0.3201392
+
+        0.3218757
+
+        0.3236655
+
+        0.3255575
+
+        0.3275926
+
+        0.329809
+
+        0.3316918
+
+        0.33365
+
+        0.3354044
+
+        0.3371823
+
+        0.3389742
+
+        0.3406748
+
+        0.3427109
+
+        0.3452184
+
+        0.347235
+
+        0.3490932
+
+        0.3512051
+
+        0.3533094
+
+        0.3557377
+
+        0.358444
+
+        0.3607723
+
+        0.3631561
+
+        0.3652384
+
+        0.3669959
+
+        0.3687211
+
+        0.3705266
+
+        0.3722164
+
+        0.374386
+
+        0.3764461
+
+        0.3782029
+
+        0.3799654
+
+        0.3818617
+
+        0.3839777
+
+        0.3861201
+
+        0.3877906
+
+        0.3897319
+
+        0.39172
+
+        0.3934513
+
+        0.3953262
+
+        0.3971771
+
+        0.3988771
+
+        0.4006958
+
+        0.4023649
+
+        0.4040688
+
+        0.4062229
+
+        0.4080957
+
+        0.4232867
+
+        0.425393
+
+        0.4270151
+
+        0.4290779
+
+        0.4309078
+
+        0.4324506
+
+        0.4339804
+
+        0.435403
+
+        0.4371091
+
+        0.4386232
+
+        0.4399692
+
+        0.4413511
+
+        0.4427342
+
+        0.4445788
+
+        0.4465381
+
+        0.4480951
+
+        0.4495726
+
+        0.4514922
+
+        0.4538141
+
+        0.4554697
+
+        0.456943
+
+        0.4583718
+
+        0.4597455
+
+        0.4613858
+
+        0.4630528
+
+        0.4646324
+
+        0.4662296
+
+        0.4676458
+
+        0.4694867
+
+        0.4710662
+
+        0.4724836
+
+        0.4740234
+
+        0.4755795
+
+        0.4770738
+
+        0.4786498
+
+        0.480157
+
+        0.4815972
+
+        0.4837027
+
+        0.4864255
+
+        0.4884523
+
+        0.4901268
+
+        0.4916722
+
+        0.4931782
+
+        0.4947478
+
+        0.4965672
+
+        0.4985538
+
+        0.5002359
+
+        0.5016976
+
+        0.5031992
+
+        0.5047773
+
+        0.5061369
+
+        0.5075324
+
+        0.5089368
+
+        0.5106511
+
+        0.5124824
+
+        0.5143197
+
+        0.5162582
+
+        0.517958
+
+        0.5197827
+
+        0.5213403
+
+        0.5227824
+
+        0.5242137
+
+        0.5255947
+
+        0.5274199
+
+        0.5299422
+
+        0.5318667
+
+        0.5334424
+
+        0.5349666
+
+        0.5364407
+
+        0.5379686
+
+        0.5394298
+
+        0.540884
+
+        0.5422838
+
+        0.5440204
+
+        0.5464932
+
+        0.5480506
+
+        0.5495347
+
+        0.55121
+
+        0.5532635
+
+        0.5550646
+
+        0.5568453
+
+        0.5584932
+
+        0.5601625
+
+        0.5626761
+
+        0.564562
+
+        0.5660946
+
+        0.5674768
+
+        0.5688596
+
+        0.5702577
+
+        0.5716389
+
+        0.5730408
+
+        0.5744537
+
+        0.5760962
+
+        0.5781231
+
+        0.5797374
+
+        0.5811965
+
+        0.5828421
+
+        0.5848277
+
+        0.5865119
+
+        0.5880194
+
+        0.5894262
+
+        0.5908167
+
+        0.5922885
+
+        0.5940136
+
+        0.5957693
+
+        0.5975279
+
+        0.5992169
+
+        0.6008362
+
+        0.602316
+
+        0.6038772
+
+        0.6053143
+
+        0.6083478
+
+        0.6230814
+
+        0.6249406
+
+        0.6266895
+
+        0.6283913
+
+        0.6301402
+
+        0.6318495
+
+        0.6336697
+
+        0.6351777
+
+        0.6366202
+
+        0.6384476
+
+        0.6401591
+
+        0.6417695
+
+        0.6433037
+
+        0.6451542
+
+        0.6468259
+
+        0.6483759
+
+        0.6498961
+
+        0.651683
+
+        0.653466
+
+        0.6552179
+
+        0.6567016
+
+        0.6581079
+
+        0.6594627
+
+        0.6609597
+
+        0.6628897
+
+        0.6647006
+
+        0.6663104
+
+        0.6677989
+
+        0.6696097
+
+        0.6715415
+
+        0.6730818
+
+        0.6746578
+
+        0.6761802
+
+        0.677733
+
+        0.6793348
+
+        0.6808358
+
+        0.6823813
+
+        0.6844035
+
+        0.6874405
+
+        0.6891599
+
+        0.6908291
+
+        0.692539
+
+        0.6943772
+
+        0.6962534
+
+        0.6978338
+
+        0.699361
+
+        0.7012098
+
+        0.7027638
+
+        0.7042489
+
+        0.7056186
+
+        0.7070826
+
+        0.7085221
+
+        0.7099614
+
+        0.7115372
+
+        0.7133362
+
+        0.7149422
+
+        0.7169722
+
+        0.7187258
+
+        0.7203923
+
+        0.7219685
+
+        0.7234753
+
+        0.7249572
+
+        0.726456
+
+        0.7280852
+
+        0.7300457
+
+        0.7324052
+
+        0.7340671
+
+        0.7355666
+
+        0.7371511
+
+        0.7387519
+
+        0.7402719
+
+        0.7417908
+
+        0.7433749
+
+        0.745043
+
+        0.7472993
+
+        0.7494184
+
+        0.7545649
+
+        0.7563964
+
+        0.7583697
+
+        0.7603089
+
+        0.7630721
+
+        0.7656819
+
+        0.7709391
+
+        0.7725689
+
+        0.7744846
+
+        0.7761198
+
+        0.7784839
+
+        0.7806347
+
+        0.7822765
+
+        0.7839751
+
+        0.7858581
+
+        0.7874159
+
+        0.7889086
+
+        0.7905773
+
+        0.7925625
+
+        0.7952605
+
+        0.7972565
+
+        0.799128
+
+        0.8010252
+
+        0.8028495
+
+        0.8045938
+
+        0.8061347
+
+        0.8086383
+
+        0.8237375
+
+        0.8263416
+
+        0.8280619
+
+        0.8299688
+
+        0.8320155
+
+        0.8338419
+
+        0.8354704
+
+        0.837041
+
+        0.8389364
+
+        0.8404958
+
+        0.842046
+
+        0.8434833
+
+        0.8450539
+
+        0.8466296
+
+        0.8481278
+
+        0.849614
+
+        0.8518323
+
+        0.8541171
+
+        0.8561227
+
+        0.8579232
+
+        0.8597327
+
+        0.8616226
+
+        0.8635338
+
+        0.8652455
+
+        0.8669552
+
+        0.86894
+
+        0.8712573
+
+        0.8728929
+
+        0.8745097
+
+        0.8760473
+
+        0.8776911
+
+        0.8794008
+
+        0.8809819
+
+        0.8827085
+
+        0.8848249
+
+        0.8865864
+
+        0.8881525
+
+        0.8896769
+
+        0.8912473
+
+        0.8928109
+
+        0.8945918
+
+        0.8965733
+
+        0.8980905
+
+        0.8998495
+
+        0.9015921
+
+        0.9030486
+
+        0.9045221
+
+        0.9059253
+
+        0.907358
+
+        0.9087938
+
+        0.9102391
+
+        0.9118488
+
+        0.9135076
+
+        0.9154066
+
+        0.9175533
+
+        0.9193122
+
+        0.9210483
+
+        0.9226022
+
+        0.9241662
+
+        0.9257441
+
+        0.927791
+
+        0.9304216
+
+        0.932181
+
+        0.9338114
+
+        0.9358861
+
+        0.9375204
+
+        0.9390559
+
+        0.9405634
+
+        0.9426977
+
+        0.9455036
+
+        0.9473827
+
+        0.9491143
+
+        0.950862
+
+        0.9526318
+
+        0.9544103
+
+        0.9559255
+
+        0.9573832
+
+        0.9587793
+
+        0.9604221
+
+        0.963036
+
+        0.9647582
+
+        0.9662713
+
+        0.9678053
+
+        0.9692398
+
+        0.970656
+
+        0.9720767
+
+        0.9736097
+
+        0.9750231
+
+        0.9764364
+
+        0.9781462
+
+        0.9803804
+
+        0.9820001
+
+        0.98351
+
+        0.9855509
+
+        0.9871764
+
+        0.9885855
+
+        0.9899676
+
+        0.9914265
+
+        0.99281
+
+        0.9950054
+
+        0.9968637
+
+        0.9984745
+
+        0.9999595
+
+        1.001419
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.002166
+
+        0.0037478
+
+        0.0052792
+
+        0.0067594
+
+        0.0081879
+
+        0.009714901
+
+        0.0113524
+
+        0.0129378
+
+        0.0274501
+
+        0.0293383
+
+        0.0308804
+
+        0.0327235
+
+        0.0348532
+
+        0.0365342
+
+        0.0382116
+
+        0.0398083
+
+        0.041494
+
+        0.0431881
+
+        0.045056
+
+        0.04703001
+
+        0.0494663
+
+        0.05156111
+
+        0.0534348
+
+        0.05530141
+
+        0.05709441
+
+        0.05888901
+
+        0.0615127
+
+        0.0638338
+
+        0.06615
+
+        0.0680877
+
+        0.07015251
+
+        0.07205801
+
+        0.074489
+
+        0.0770554
+
+        0.0792335
+
+        0.08119801
+
+        0.0836665
+
+        0.08568791
+
+        0.0875001
+
+        0.08928011
+
+        0.09110831
+
+        0.0928392
+
+        0.0956912
+
+        0.0976892
+
+        0.09952851
+
+        0.1014005
+
+        0.1031912
+
+        0.1049565
+
+        0.1067252
+
+        0.1084395
+
+        0.1110664
+
+        0.113071
+
+        0.1148352
+
+        0.1172167
+
+        0.1191907
+
+        0.12145
+
+        0.1232365
+
+        0.1252244
+
+        0.1273417
+
+        0.1296296
+
+        0.1315078
+
+        0.1333044
+
+        0.1351511
+
+        0.1369652
+
+        0.1387598
+
+        0.1406884
+
+        0.1426299
+
+        0.1448737
+
+        0.1476089
+
+        0.1496183
+
+        0.1518138
+
+        0.153687
+
+        0.1561974
+
+        0.1583775
+
+        0.1601827
+
+        0.1627275
+
+        0.1648491
+
+        0.166696
+
+        0.168438
+
+        0.1704423
+
+        0.1726611
+
+        0.1742851
+
+        0.1756833
+
+        0.1772252
+
+        0.1787985
+
+        0.180341
+
+        0.1819344
+
+        0.1837162
+
+        0.1852412
+
+        0.1873307
+
+        0.1891286
+
+        0.1906194
+
+        0.1921184
+
+        0.194088
+
+        0.1957274
+
+        0.1972745
+
+        0.1987191
+
+        0.2001257
+
+        0.2017158
+
+        0.2034053
+
+        0.2048243
+
+        0.2062012
+
+        0.2075962
+
+        0.2089792
+
+        0.2104524
+
+        0.2120051
+
+        0.2135888
+
+        0.227546
+
+        0.2293534
+
+        0.2309793
+
+        0.2331118
+
+        0.2350002
+
+        0.236504
+
+        0.2379244
+
+        0.2392917
+
+        0.2406967
+
+        0.2423082
+
+        0.2439548
+
+        0.2456245
+
+        0.2471406
+
+        0.2488427
+
+        0.2505982
+
+        0.2522618
+
+        0.2540564
+
+        0.2555741
+
+        0.2569562
+
+        0.2582915
+
+        0.2598045
+
+        0.2615902
+
+        0.2634067
+
+        0.2654357
+
+        0.266919
+
+        0.2682976
+
+        0.2696506
+
+        0.2710434
+
+        0.2724059
+
+        0.2737622
+
+        0.2754955
+
+        0.277026
+
+        0.2786016
+
+        0.2804362
+
+        0.282144
+
+        0.2838781
+
+        0.2854317
+
+        0.2868311
+
+        0.2882079
+
+        0.2896118
+
+        0.2910083
+
+        0.2925629
+
+        0.294275
+
+        0.2968848
+
+        0.2993098
+
+        0.3011214
+
+        0.3026517
+
+        0.3041038
+
+        0.3056402
+
+        0.3071127
+
+        0.3085423
+
+        0.310003
+
+        0.3118089
+
+        0.313673
+
+        0.3152544
+
+        0.3172444
+
+        0.3188836
+
+        0.3203162
+
+        0.3217137
+
+        0.3231176
+
+        0.3244963
+
+        0.3258584
+
+        0.3287147
+
+        0.3304903
+
+        0.3321751
+
+        0.3338823
+
+        0.3361522
+
+        0.3382921
+
+        0.3399761
+
+        0.3424645
+
+        0.3459427
+
+        0.3479527
+
+        0.3504697
+
+        0.3527713
+
+        0.354579
+
+        0.3560906
+
+        0.3574686
+
+        0.3595163
+
+        0.3618007
+
+        0.363575
+
+        0.3653573
+
+        0.3678284
+
+        0.3701021
+
+        0.3716213
+
+        0.3736174
+
+        0.3760388
+
+        0.3778741
+
+        0.3795564
+
+        0.3811617
+
+        0.3834975
+
+        0.3858148
+
+        0.3882364
+
+        0.3901299
+
+        0.3918256
+
+        0.3939015
+
+        0.3959022
+
+        0.3974902
+
+        0.3990511
+
+        0.4005598
+
+        0.4020898
+
+        0.4037585
+
+        0.4054565
+
+        0.40703
+
+        0.4088631
+
+        0.4104451
+
+        0.4122292
+
+        0.4138524
+
+        0.429528
+
+        0.431559
+
+        0.4334055
+
+        0.4357013
+
+        0.4376323
+
+        0.4390767
+
+        0.4405444
+
+        0.442208
+
+        0.4441019
+
+        0.4457988
+
+        0.4474175
+
+        0.4490482
+
+        0.4514439
+
+        0.4541176
+
+        0.4568149
+
+        0.4588135
+
+        0.4611067
+
+        0.4631332
+
+        0.4649203
+
+        0.4671303
+
+        0.4690217
+
+        0.4707391
+
+        0.4725282
+
+        0.4744965
+
+        0.4762511
+
+        0.4778516
+
+        0.4793867
+
+        0.480907
+
+        0.4834563
+
+        0.485184
+
+        0.4867342
+
+        0.4881575
+
+        0.4895558
+
+        0.4909092
+
+        0.492449
+
+        0.4941556
+
+        0.4958663
+
+        0.4978605
+
+        0.4999156
+
+        0.5014327
+
+        0.5029281
+
+        0.5123554
+
+        0.5147218
+
+        0.5167012
+
+        0.5183683
+
+        0.5198129
+
+        0.5212253
+
+        0.5227184
+
+        0.5241114
+
+        0.5255111
+
+        0.5269339
+
+        0.5292127
+
+        0.5309008
+
+        0.5324137
+
+        0.5338316
+
+        0.5351778
+
+        0.5365672
+
+        0.5379485
+
+        0.5392988
+
+        0.5406865
+
+        0.5420643
+
+        0.5438752
+
+        0.5457006
+
+        0.5472471
+
+        0.5488928
+
+        0.5506716
+
+        0.5523516
+
+        0.5538939
+
+        0.5553543
+
+        0.5567672
+
+        0.5581445
+
+        0.5599526
+
+        0.5619057
+
+        0.5635477
+
+        0.5650044
+
+        0.5665181
+
+        0.567888
+
+        0.5692467
+
+        0.570635
+
+        0.572012
+
+        0.573414
+
+        0.5751948
+
+        0.57726
+
+        0.578917
+
+        0.580423
+
+        0.5819074
+
+        0.5840547
+
+        0.5856155
+
+        0.5870288
+
+        0.5884731
+
+        0.5901129
+
+        0.5916828
+
+        0.593463
+
+        0.5954583
+
+        0.5970715
+
+        0.5985988
+
+        0.6001834
+
+        0.6016611
+
+        0.6033185
+
+        0.604821
+
+        0.6067792
+
+        0.6086311
+
+        0.6102769
+
+        0.612108
+
+        0.6138746
+
+        0.6290316
+
+        0.6308556
+
+        0.6324383
+
+        0.6341122
+
+        0.6364985
+
+        0.6384113
+
+        0.6399596
+
+        0.641409
+
+        0.6432076
+
+        0.6447853
+
+        0.6464043
+
+        0.64794
+
+        0.6494005
+
+        0.6510093
+
+        0.653358
+
+        0.6549162
+
+        0.656329
+
+        0.6576545
+
+        0.6589749
+
+        0.6604902
+
+        0.6623474
+
+        0.6638826
+
+        0.6653687
+
+        0.6668972
+
+        0.6688581
+
+        0.6703028
+
+        0.6716947
+
+        0.6732355
+
+        0.674842
+
+        0.6765122
+
+        0.6780709
+
+        0.6795449
+
+        0.681145
+
+        0.6833311
+
+        0.6850755
+
+        0.6865042
+
+        0.6879271
+
+        0.6893724
+
+        0.690756
+
+        0.6924475
+
+        0.6946293
+
+        0.6963019
+
+        0.6978178
+
+        0.6995078
+
+        0.7009815
+
+        0.7025945
+
+        0.7040121
+
+        0.7054004
+
+        0.7067657
+
+        0.7081339
+
+        0.7095351
+
+        0.7111293
+
+        0.7127396
+
+        0.7149909
+
+        0.7175518
+
+        0.7197169
+
+        0.7212566
+
+        0.7227311
+
+        0.7241212
+
+        0.7255701
+
+        0.7273604
+
+        0.7290702
+
+        0.7311739
+
+        0.7329558
+
+        0.7347147
+
+        0.7363527
+
+        0.7380187
+
+        0.73968
+
+        0.7414513
+
+        0.7432911
+
+        0.7455103
+
+        0.747405
+
+        0.7492064
+
+        0.7516671
+
+        0.7543818
+
+        0.7563749
+
+        0.7587759
+
+        0.7613194
+
+        0.7633362
+
+        0.7650509
+
+        0.7667075
+
+        0.7681968
+
+        0.7697133
+
+        0.7712134
+
+        0.7728016
+
+        0.7745099
+
+        0.7766634
+
+        0.7789458
+
+        0.7806804
+
+        0.7822824
+
+        0.7841874
+
+        0.7859336
+
+        0.7875271
+
+        0.789188
+
+        0.790616
+
+        0.7926482
+
+        0.7948416
+
+        0.7976489
+
+        0.8000567
+
+        0.8024614
+
+        0.8046175
+
+        0.8077946
+
+        0.8117217
+
+        0.813847
+
+        0.8161684
+
+        0.834087
+
+        0.8362864
+
+        0.838811
+
+        0.8410727
+
+        0.8432096
+
+        0.8459116
+
+        0.8481611
+
+        0.8504596
+
+        0.85417
+
+        0.8563932
+
+        0.8589326
+
+        0.8623359
+
+        0.864899
+
+        0.8674043
+
+        0.8697279
+
+        0.87161
+
+        0.8734029
+
+        0.8752604
+
+        0.8770945
+
+        0.8792728
+
+        0.8813287
+
+        0.8840672
+
+        0.8880426
+
+        0.8951036
+
+        0.8980775
+
+        0.9006395
+
+        0.9027661
+
+        0.904934
+
+        0.906815
+
+        0.9088485
+
+        0.9116493
+
+        0.9136341
+
+        0.9160265
+
+        0.9195277
+
+        0.9215398
+
+        0.9234152
+
+        0.9253083
+
+        0.9275394
+
+        0.9309058
+
+        0.9338888
+
+        0.9358219
+
+        0.937554
+
+        0.939145
+
+        0.9408434
+
+        0.9425475
+
+        0.9444638
+
+        0.9466461
+
+        0.9482085
+
+        0.9497746
+
+        0.9522883
+
+        0.9540773
+
+        0.9560181
+
+        0.9575635
+
+        0.9590965
+
+        0.9617038
+
+        0.96354
+
+        0.9650887
+
+        0.9666138
+
+        0.9681656
+
+        0.9702775
+
+        0.9724394
+
+        0.9741098
+
+        0.9756187
+
+        0.9786079
+
+        0.9803276
+
+        0.9820434
+
+        0.9842096
+
+        0.9858856
+
+        0.9872936
+
+        0.9886915
+
+        0.9900796
+
+        0.9915796
+
+        0.993759
+
+        0.9955969
+
+        0.9972506
+
+        0.9987164
+
+        1.000155
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0031474
+
+        0.0061287
+
+        0.008693499
+
+        0.0137791
+
+        0.0187222
+
+        0.0405694
+
+        0.0462409
+
+        0.0489968
+
+        0.0527508
+
+        0.0545999
+
+        0.0591571
+
+        0.0618265
+
+        0.0636093
+
+        0.0669298
+
+        0.0686279
+
+        0.07020921
+
+        0.0721715
+
+        0.0738523
+
+        0.0753873
+
+        0.0772062
+
+        0.0787668
+
+        0.0802266
+
+        0.0815654
+
+        0.082996
+
+        0.0844316
+
+        0.0858217
+
+        0.0885128
+
+        0.0902042
+
+        0.0916683
+
+        0.0931587
+
+        0.0946156
+
+        0.0961416
+
+        0.09759
+
+        0.0990615
+
+        0.1004958
+
+        0.1020473
+
+        0.1040595
+
+        0.1058162
+
+        0.1073664
+
+        0.1091145
+
+        0.1108322
+
+        0.1128203
+
+        0.1143942
+
+        0.1160053
+
+        0.1177313
+
+        0.1193023
+
+        0.1212904
+
+        0.123216
+
+        0.1247754
+
+        0.1263694
+
+        0.127879
+
+        0.1292557
+
+        0.1306998
+
+        0.1320714
+
+        0.1337189
+
+        0.1353391
+
+        0.1369744
+
+        0.1385928
+
+        0.1401138
+
+        0.1415854
+
+        0.143041
+
+        0.1448369
+
+        0.1467382
+
+        0.1481919
+
+        0.1503178
+
+        0.1519663
+
+        0.1534501
+
+        0.1553359
+
+        0.157166
+
+        0.1587556
+
+        0.1602312
+
+        0.1616697
+
+        0.1631698
+
+        0.1648681
+
+        0.1666591
+
+        0.1683657
+
+        0.1701604
+
+        0.1721012
+
+        0.1738986
+
+        0.1757973
+
+        0.1776135
+
+        0.179262
+
+        0.1811437
+
+        0.1827274
+
+        0.1842554
+
+        0.1857685
+
+        0.1876743
+
+        0.189416
+
+        0.1910114
+
+        0.1926523
+
+        0.1941916
+
+        0.1960554
+
+        0.1977975
+
+        0.19947
+
+        0.201014
+
+        0.2024205
+
+        0.2038803
+
+        0.2054798
+
+        0.2071831
+
+        0.2094427
+
+        0.2111245
+
+        0.2130322
+
+        0.2146899
+
+        0.2161379
+
+        0.2176903
+
+        0.2191417
+
+        0.2344323
+
+        0.2368231
+
+        0.2481611
+
+        0.2502496
+
+        0.2520396
+
+        0.2539887
+
+        0.2559418
+
+        0.2576865
+
+        0.2600166
+
+        0.262128
+
+        0.2637982
+
+        0.2653486
+
+        0.2668906
+
+        0.2686228
+
+        0.2703673
+
+        0.2723006
+
+        0.2740794
+
+        0.2765075
+
+        0.2788983
+
+        0.2806993
+
+        0.282235
+
+        0.2836857
+
+        0.2850615
+
+        0.2866092
+
+        0.288388
+
+        0.2900303
+
+        0.2937314
+
+        0.2954893
+
+        0.2992356
+
+        0.3017333
+
+        0.3057306
+
+        0.3136331
+
+        0.3188171
+
+        0.3256094
+
+        0.3301689
+
+        0.3330842
+
+        0.3349079
+
+        0.3371716
+
+        0.3397048
+
+        0.3423077
+
+        0.3441577
+
+        0.3463696
+
+        0.3482442
+
+        0.3502277
+
+        0.3518693
+
+        0.3541229
+
+        0.3564326
+
+        0.3580985
+
+        0.3596476
+
+        0.3610417
+
+        0.3624717
+
+        0.363907
+
+        0.365555
+
+        0.367135
+
+        0.3688329
+
+        0.3705112
+
+        0.3723139
+
+        0.3739263
+
+        0.3753535
+
+        0.3771718
+
+        0.3786646
+
+        0.3801008
+
+        0.3814609
+
+        0.3827972
+
+        0.3844447
+
+        0.3866304
+
+        0.3886881
+
+        0.390327
+
+        0.3918088
+
+        0.3932567
+
+        0.3947218
+
+        0.3961838
+
+        0.3979284
+
+        0.3995275
+
+        0.4010073
+
+        0.4023448
+
+        0.4038142
+
+        0.4054027
+
+        0.4069771
+
+        0.4084733
+
+        0.4100661
+
+        0.411684
+
+        0.4131588
+
+        0.4146953
+
+        0.4162843
+
+        0.4177979
+
+        0.4193624
+
+        0.4346854
+
+        0.4365886
+
+        0.438394
+
+        0.4403672
+
+        0.4419492
+
+        0.4434059
+
+        0.445348
+
+        0.4481328
+
+        0.4498405
+
+        0.4513646
+
+        0.4528278
+
+        0.4544058
+
+        0.4563012
+
+        0.4579859
+
+        0.4595329
+
+        0.460925
+
+        0.4624283
+
+        0.46388
+
+        0.4653293
+
+        0.4668432
+
+        0.468271
+
+        0.4697388
+
+        0.4713106
+
+        0.4729328
+
+        0.4745938
+
+        0.4762045
+
+        0.4784375
+
+        0.4806427
+
+        0.4822237
+
+        0.483766
+
+        0.4852127
+
+        0.4867902
+
+        0.4886343
+
+        0.4901938
+
+        0.4916418
+
+        0.4932352
+
+        0.4947992
+
+        0.4962861
+
+        0.4976371
+
+        0.4990487
+
+        0.5004377
+
+        0.5018348
+
+        0.5033411
+
+        0.5049977
+
+        0.5069817
+
+        0.5092475
+
+        0.5111058
+
+        0.5126333
+
+        0.5140877
+
+        0.5156291
+
+        0.5171925
+
+        0.518577
+
+        0.5200917
+
+        0.5218439
+
+        0.5239491
+
+        0.5260758
+
+        0.5276222
+
+        0.5290343
+
+        0.5305139
+
+        0.5318955
+
+        0.5332353
+
+        0.5347793
+
+        0.5500762
+
+        0.5544443
+
+        0.5588178
+
+        0.5628197
+
+        0.5653212
+
+        0.5677373
+
+        0.5692492
+
+        0.5712851
+
+        0.5734789
+
+        0.5761405
+
+        0.5778181
+
+        0.581248
+
+        0.5836543
+
+        0.5867725
+
+        0.5895332
+
+        0.5927441
+
+        0.5967476
+
+        0.6006625
+
+        0.6042329
+
+        0.6073079
+
+        0.6091087
+
+        0.6108143
+
+        0.6125343
+
+        0.6140229
+
+        0.6154271
+
+        0.6171783
+
+        0.6189998
+
+        0.6205618
+
+        0.6372419
+
+        0.6398581
+
+        0.6415859
+
+        0.6436191
+
+        0.6458853
+
+        0.6477261
+
+        0.6498029
+
+        0.6512631
+
+        0.6526191
+
+        0.6545724
+
+        0.6563306
+
+        0.6586765
+
+        0.6602133
+
+        0.6616396
+
+        0.6637169
+
+        0.6656557
+
+        0.6683801
+
+        0.6712112
+
+        0.6737351
+
+        0.6757544
+
+        0.6785297
+
+        0.6814858
+
+        0.6835544
+
+        0.6854814
+
+        0.6881036
+
+        0.690423
+
+        0.6926329
+
+        0.6953813
+
+        0.6975433
+
+        0.6994787
+
+        0.7012577
+
+        0.7032042
+
+        0.7053853
+
+        0.7077314
+
+        0.711785
+
+        0.7160414
+
+        0.7181199
+
+        0.7199526
+
+        0.7224196
+
+        0.7246757
+
+        0.7270325
+
+        0.7292546
+
+        0.7312059
+
+        0.7332266
+
+        0.7348852
+
+        0.7367601
+
+        0.7397887
+
+        0.7424747
+
+        0.7450264
+
+        0.7472422
+
+        0.7493985
+
+        0.7512268
+
+        0.7534609
+
+        0.757305
+
+        0.7594579
+
+        0.7613701
+
+        0.7635958
+
+        0.7655804
+
+        0.7675023
+
+        0.7708357
+
+        0.7741995
+
+        0.7765886
+
+        0.7791756
+
+        0.7812425
+
+        0.7831907
+
+        0.785507
+
+        0.7877902
+
+        0.7901222
+
+        0.7921249
+
+        0.7939079
+
+        0.7959508
+
+        0.7977331
+
+        0.8008107
+
+        0.8038389
+
+        0.8064248
+
+        0.8088243
+
+        0.8108169
+
+        0.812804
+
+        0.8145487
+
+        0.8173428
+
+        0.8192621
+
+        0.821584
+
+        0.8545619
+
+        0.8672591
+
+        0.8705599
+
+        0.8739494
+
+        0.8764231
+
+        0.879808
+
+        0.881734
+
+        0.8837907
+
+        0.8864259
+
+        0.8902436
+
+        0.8926902
+
+        0.8959311
+
+        0.8978168
+
+        0.8994471
+
+        0.9011729
+
+        0.9052363
+
+        0.9075738
+
+        0.9099485
+
+        0.9143539
+
+        0.9177335
+
+        0.9223972
+
+        0.925974
+
+        0.9311796
+
+        0.9341926
+
+        0.9539335
+
+        0.9677581
+
+        0.975702
+
+        0.9835678
+
+        0.9908178
+
+        0.9945792
+
+        0.9999783
+
+        1.003484
+
+        You
+        Pressed on the Tile
+
+        You Pressed on the Tile
+
+        0.0035139
+
+        0.0155432
+
+        0.0192936
+
+        0.0245758
+
+        0.0301066
+
+        0.0331609
+
+        0.0361482
+
+        0.0389352
+
+        0.0652885
+
+        0.0694108
+
+        0.0812932
+
+        0.0852373
+
+        0.0936472
+
+        0.1112856
+
+        0.115325
+
+        0.1196942
+
+        0.1262853
+
+        0.1296157
+
+        0.1339951
+
+        0.1370936
+
+        0.1419675
+
+        0.1504181
+
+        0.1566004
+
+        0.1616884
+
+        0.1635346
+
+        0.1651088
+
+        0.1731661
+
+        0.1766863
+
+        0.1831731
+
+        0.1881945
+
+        0.1950996
+
+        0.2021391
+
+        0.2064318
+
+        0.2162859
+
+        0.2210038
+
+        0.2247264
+
+        0.2295729
+
+        0.235204
+
+        0.2416235
+
+        0.2674362
+
+        0.2700675
+
+        0.2766367
+
+        0.2821597
+
+        0.285535
+
+        0.29042
+
+        0.2950912
+
+        0.2979752
+
+        0.2997426
+
+        0.3038547
+
+        0.3060681
+
+        0.3078971
+
+        0.3116432
+
+        0.3150493
+
+        0.3190392
+
+        0.3254793
+
+        0.3303738
+
+        0.3343107
+
+        0.3376396
+
+        0.3480962
+
+        0.3511072
+
+        0.3535939
+
+        0.3594935
+
+        0.3633807
+
+        0.3673389
+
+        0.3821669
+
+        0.3913534
+
+        0.3959296
+
+        0.400361
+
+        0.4024195
+
+        0.408171
+
+        0.4101182
+
+        0.4119809
+
+        0.4137494
+
+        0.415698
+
+        0.417269
+
+        0.4191169
+
+        0.4216417
+
+        0.4239887
+
+        0.4258007
+
+        0.4280252
+
+        0.4298134
+
+        0.4315026
+
+        0.4338519
+
+        0.4369142
+
+        0.4397371
+
+        0.4416191
+
+        0.4583437
+
+        0.4605508
+
+        0.4626634
+
+        0.4646144
+
+        0.4666212
+
+        0.4684342
+
+        0.4701867
+
+        0.4722199
+
+        0.4741938
+
+        0.4760486
+
+        0.4781459
+
+        0.4803779
+
+        0.4825267
+
+        0.4841796
+
+        0.4859594
+
+        0.4878241
+
+        0.4918194
+
+        0.4937952
+
+        0.4997216
+
+        0.5014381
+
+        0.5049762
+
+        0.5159612
+
+        0.5196608
+
+        0.5305946
+
+        0.533721
+
+        0.5411121
+
+        0.5472404
+
+        0.5511754
+
+        0.5542793
+
+        0.5653121
+
+        0.569429
+
+        0.58035
+
+        0.5843012
+
+        0.5912271
+
+        0.5955179
+
+        0.5984315
+
+        0.6000548
+
+        0.6014393
+
+        0.6031523
+
+        0.6052288
+
+        0.6070253
+
+        0.6090684
+
+        0.6114251
+
+        0.6131935
+
+        0.6149521
+
+        0.6245173
+
+        0.630109
+
+        0.6344088
+
+        0.639178
+
+        0.6501924
+
+        0.6745833
+
+        0.6834037
+
+        0.6868488
+
+        0.6924317
+
+        0.6963863
+
+        0.7007242
+
+        0.708666
+
+        0.7143452
+
+        0.7201723
+
+        0.7234766
+
+        0.7257277
+
+        0.7276638
+
+        0.7296916
+
+        0.7382997
+
+        0.7431701
+
+        0.750482
+
+        0.7563177
+
+        0.7615609
+
+        0.7879015
+
+        0.8187482
+
+        0.8294052
+
+        0.8333641
+
+        0.8365895
+
+        0.83973
+
+        0.8473515
+
+        0.8517851
+
+        0.8806838
+
+        0.8834633
+
+        0.8903233
+
+        0.8952098
+
+        0.9020607
+
+        0.9086244
+
+        0.9163634
+
+        0.9244273
+
+        0.9295322
+
+        0.9325715
+
+        0.9601443
+
+        0.9659181
+
+        0.973966
+
+        0.9909232
+
+        1.000802
+
+'
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 0
+      categories:
+      - Uncategorized
+      parentId: 1001
+      parentUniqueId: Tests.dll/[Tests][BasesTests][suite]
+    m_ResultText: '_11DoTilesDisappearBinary (5.065s)
+
+      ---
+
+      S1:binary_4
+      (UnityEngine.Sprite)
+
+      S1:decimal_7 (UnityEngine.Sprite)
+
+      S1:binary_2
+      (UnityEngine.Sprite)
+
+      S1:decimal_5 (UnityEngine.Sprite)
+
+      S1:binary_6
+      (UnityEngine.Sprite)
+
+      S1:decimal_9 (UnityEngine.Sprite)
+
+      S1:binary_9
+      (UnityEngine.Sprite)
+
+      S1:decimal_3 (UnityEngine.Sprite)
+
+      S1:binary_10
+      (UnityEngine.Sprite)
+
+      S1:decimal_10 (UnityEngine.Sprite)
+
+      S1:binary_7
+      (UnityEngine.Sprite)
+
+      S1:decimal_6 (UnityEngine.Sprite)
+
+      S1:binary_5
+      (UnityEngine.Sprite)
+
+      S1:decimal_8 (UnityEngine.Sprite)
+
+      S1:binary_8
+      (UnityEngine.Sprite)
+
+      S1:decimal_2 (UnityEngine.Sprite)
+
+      S1:binary_1
+      (UnityEngine.Sprite)
+
+      S1:decimal_4 (UnityEngine.Sprite)
+
+      S1:binary_3
+      (UnityEngine.Sprite)
+
+      S1:decimal_1 (UnityEngine.Sprite)
+
+      You
+      Pressed on the Tile
+
+      You Pressed on the Tile
+
+      0.002158
+
+      0.0039252
+
+      0.005488
+
+      0.0069725
+
+      0.008505
+
+      0.0104792
+
+      0.012958
+
+      0.0147983
+
+      0.0164312
+
+      0.0180134
+
+      0.0194833
+
+      0.0209141
+
+      0.0224324
+
+      0.0242935
+
+      0.0281282
+
+      0.0298723
+
+      0.0314461
+
+      0.0331858
+
+      0.034743
+
+      0.036228
+
+      0.0376475
+
+      0.0390851
+
+      0.0404749
+
+      0.0427236
+
+      0.0451045
+
+      0.0467828
+
+      0.0487055
+
+      0.0504053
+
+      0.05206531
+
+      0.0535779
+
+      0.0550793
+
+      0.0572417
+
+      0.05976211
+
+      0.0618207
+
+      0.06365801
+
+      0.0653118
+
+      0.06700581
+
+      0.0685804
+
+      0.0702614
+
+      0.0721449
+
+      0.074138
+
+      0.07589
+
+      0.0777376
+
+      0.080077
+
+      0.0820602
+
+      0.0840636
+
+      0.0858338
+
+      0.08742011
+
+      0.0894644
+
+      0.091033
+
+      0.0926073
+
+      0.0943882
+
+      0.096051
+
+      0.0975645
+
+      0.09915891
+
+      0.1006896
+
+      0.1022753
+
+      0.1043225
+
+      0.1061085
+
+      0.1077578
+
+      0.1093023
+
+      0.1114704
+
+      0.1135823
+
+      0.1155354
+
+      0.1175427
+
+      0.119768
+
+      0.1216742
+
+      0.1231887
+
+      0.1246548
+
+      0.1261928
+
+      0.1278801
+
+      0.1293874
+
+      0.1309004
+
+      0.1324899
+
+      0.1342865
+
+      0.1361366
+
+      0.1377551
+
+      0.1393197
+
+      0.1408553
+
+      0.1424609
+
+      0.1442282
+
+      0.1461739
+
+      0.1478581
+
+      0.1497867
+
+      0.1515631
+
+      0.1531085
+
+      0.1546551
+
+      0.1562623
+
+      0.1578127
+
+      0.1598261
+
+      0.1617824
+
+      0.1634114
+
+      0.1651242
+
+      0.1672626
+
+      0.1687693
+
+      0.1701824
+
+      0.171702
+
+      0.1731294
+
+      0.1745493
+
+      0.1763327
+
+      0.1781679
+
+      0.1797443
+
+      0.1819458
+
+      0.1839012
+
+      0.1856339
+
+      0.1873436
+
+      0.1890064
+
+      0.1906845
+
+      0.1928263
+
+      0.1951649
+
+      0.1975562
+
+      0.199529
+
+      0.2015096
+
+      0.2032874
+
+      0.2048269
+
+      0.206313
+
+      0.207838
+
+      0.2093434
+
+      0.2116679
+
+      0.2146623
+
+      0.2169074
+
+      0.218595
+
+      0.2200482
+
+      0.221635
+
+      0.2231719
+
+      0.2246819
+
+      0.2293757
+
+      0.2310704
+
+      0.2329008
+
+      0.2346513
+
+      0.2363511
+
+      0.2380913
+
+      0.2395888
+
+      0.2419029
+
+      0.2450525
+
+      0.2468858
+
+      0.2486519
+
+      0.2502128
+
+      0.2521427
+
+      0.253822
+
+      0.2552948
+
+      0.2572059
+
+      0.258926
+
+      0.2607362
+
+      0.2623845
+
+      0.2638998
+
+      0.2654541
+
+      0.2670437
+
+      0.2686003
+
+      0.2700749
+
+      0.2716823
+
+      0.2736168
+
+      0.2754057
+
+      0.2775709
+
+      0.279415
+
+      0.2811892
+
+      0.2828762
+
+      0.2845156
+
+      0.286069
+
+      0.2876192
+
+      0.2899927
+
+      0.2916793
+
+      0.293955
+
+      0.2957105
+
+      0.2972766
+
+      0.2988207
+
+      0.3003929
+
+      0.3020373
+
+      0.3038883
+
+      0.3054861
+
+      0.3070808
+
+      0.3089852
+
+      0.3109904
+
+      0.3131797
+
+      0.3150477
+
+      0.3167401
+
+      0.3187123
+
+      0.3205738
+
+      0.3221305
+
+      0.3236418
+
+      0.3251296
+
+      0.3297669
+
+      0.3368682
+
+      0.3395511
+
+      0.3413071
+
+      0.3434446
+
+      0.345805
+
+      0.34762
+
+      0.350087
+
+      0.352224
+
+      0.3539106
+
+      0.3556248
+
+      0.3572053
+
+      0.3590144
+
+      0.3610204
+
+      0.3629008
+
+      0.3647688
+
+      0.3671615
+
+      0.3689626
+
+      0.37059
+
+      0.3721709
+
+      0.373653
+
+      0.3750732
+
+      0.378276
+
+      0.3808784
+
+      0.3840401
+
+      0.3860078
+
+      0.3876162
+
+      0.3891806
+
+      0.3910077
+
+      0.3927778
+
+      0.3946669
+
+      0.3966942
+
+      0.3989585
+
+      0.4007262
+
+      0.4023604
+
+      0.4038698
+
+      0.4053174
+
+      0.4069019
+
+      0.4084162
+
+      0.4101529
+
+      0.4133441
+
+      0.4157085
+
+      0.4174066
+
+      0.4190128
+
+      0.4204822
+
+      0.422144
+
+      0.4236487
+
+      0.4251839
+
+      0.4295548
+
+      0.4314547
+
+      0.4332488
+
+      0.4348174
+
+      0.4362642
+
+      0.4376867
+
+      0.4391139
+
+      0.4405903
+
+      0.4426486
+
+      0.4457572
+
+      0.4477705
+
+      0.4494075
+
+      0.4509735
+
+      0.4525059
+
+      0.4539856
+
+      0.4554182
+
+      0.4568182
+
+      0.4587942
+
+      0.4606239
+
+      0.4622724
+
+      0.4637471
+
+      0.4652175
+
+      0.4667323
+
+      0.4682636
+
+      0.469829
+
+      0.471363
+
+      0.473
+
+      0.4752886
+
+      0.4778733
+
+      0.4798705
+
+      0.481893
+
+      0.4836392
+
+      0.4852637
+
+      0.4868022
+
+      0.4883343
+
+      0.490104
+
+      0.4921772
+
+      0.4942854
+
+      0.4960232
+
+      0.4975463
+
+      0.4989734
+
+      0.500661
+
+      0.5021002
+
+      0.5035059
+
+      0.5049444
+
+      0.506507
+
+      0.5079985
+
+      0.5095173
+
+      0.512346
+
+      0.5141252
+
+      0.5160894
+
+      0.517686
+
+      0.5191923
+
+      0.5212922
+
+      0.5234993
+
+      0.5257381
+
+      0.5275481
+
+      0.5290725
+
+      0.5305945
+
+      0.53269
+
+      0.5342517
+
+      0.5357423
+
+      0.5378869
+
+      0.5398167
+
+      0.5414219
+
+      0.5431129
+
+      0.54514
+
+      0.5470995
+
+      0.5489945
+
+      0.550768
+
+      0.5529808
+
+      0.5549276
+
+      0.5566143
+
+      0.5582215
+
+      0.5601004
+
+      0.5618876
+
+      0.5635322
+
+      0.5650561
+
+      0.5667143
+
+      0.5689466
+
+      0.5709256
+
+      0.5725766
+
+      0.5742139
+
+      0.5760196
+
+      0.5782129
+
+      0.5801309
+
+      0.5827115
+
+      0.5851262
+
+      0.587626
+
+      0.5898327
+
+      0.5921152
+
+      0.5940423
+
+      0.5959547
+
+      0.5977191
+
+      0.600031
+
+      0.6019918
+
+      0.603724
+
+      0.6053352
+
+      0.6069852
+
+      0.6088641
+
+      0.6107357
+
+      0.6131945
+
+      0.6154902
+
+      0.6174304
+
+      0.6191404
+
+      0.6207786
+
+      0.622555
+
+      0.6241845
+
+      0.6259235
+
+      0.6306168
+
+      0.6328502
+
+      0.6346058
+
+      0.6363227
+
+      0.6378993
+
+      0.6394637
+
+      0.6411859
+
+      0.643037
+
+      0.6452768
+
+      0.6478444
+
+      0.6496164
+
+      0.6512756
+
+      0.652934
+
+      0.6545309
+
+      0.6561404
+
+      0.6577101
+
+      0.6593229
+
+      0.6610606
+
+      0.6630779
+
+      0.6648841
+
+      0.6666403
+
+      0.6683039
+
+      0.6699214
+
+      0.6714981
+
+      0.6731514
+
+      0.6747074
+
+      0.6763502
+
+      0.6797889
+
+      0.6825389
+
+      0.6849489
+
+      0.6870704
+
+      0.6886891
+
+      0.6901447
+
+      0.691734
+
+      0.6943602
+
+      0.6963131
+
+      0.6978905
+
+      0.6993821
+
+      0.7009612
+
+      0.7025683
+
+      0.7040845
+
+      0.7055869
+
+      0.7071273
+
+      0.7090111
+
+      0.7118663
+
+      0.7136723
+
+      0.7152912
+
+      0.7169692
+
+      0.7184953
+
+      0.7201707
+
+      0.7218513
+
+      0.7234275
+
+      0.7258252
+
+      0.7278872
+
+      0.7295443
+
+      0.731077
+
+      0.7326974
+
+      0.7342543
+
+      0.7357754
+
+      0.7372654
+
+      0.7388199
+
+      0.7409647
+
+      0.7432776
+
+      0.7457437
+
+      0.7475107
+
+      0.749068
+
+      0.7506835
+
+      0.752264
+
+      0.7537917
+
+      0.7553036
+
+      0.7571586
+
+      0.7589695
+
+      0.7608029
+
+      0.7626219
+
+      0.7640868
+
+      0.7655398
+
+      0.7670998
+
+      0.7685831
+
+      0.7700617
+
+      0.7721344
+
+      0.7738642
+
+      0.7754527
+
+      0.7772124
+
+      0.7793401
+
+      0.7813838
+
+      0.7832607
+
+      0.7848407
+
+      0.7863458
+
+      0.7880338
+
+      0.7895938
+
+      0.7911261
+
+      0.7927293
+
+      0.7945166
+
+      0.7960791
+
+      0.7976403
+
+      0.7992218
+
+      0.8007714
+
+      0.8023645
+
+      0.8042686
+
+      0.8057896
+
+      0.8072511
+
+      0.8088072
+
+      0.8106351
+
+      0.8130289
+
+      0.8147987
+
+      0.8164433
+
+      0.8185155
+
+      0.8202108
+
+      0.8218578
+
+      0.8236156
+
+      0.8254261
+
+      0.8281459
+
+      0.8328939
+
+      0.8354173
+
+      0.8379762
+
+      0.8403483
+
+      0.8426409
+
+      0.8451654
+
+      0.8471376
+
+      0.849458
+
+      0.8517297
+
+      0.8536694
+
+      0.8557673
+
+      0.8572763
+
+      0.8587705
+
+      0.8602815
+
+      0.861841
+
+      0.8632782
+
+      0.8648782
+
+      0.866484
+
+      0.8679783
+
+      0.8694404
+
+      0.8708991
+
+      0.872427
+
+      0.8739344
+
+      0.8755205
+
+      0.8770716
+
+      0.8788754
+
+      0.8814175
+
+      0.8833477
+
+      0.8848748
+
+      0.886387
+
+      0.8878412
+
+      0.8892671
+
+      0.8907647
+
+      0.8922559
+
+      0.8937353
+
+      0.8954335
+
+      0.8970114
+
+      0.8986417
+
+      0.9006511
+
+      0.9030313
+
+      0.9049714
+
+      0.9070796
+
+      0.9090875
+
+      0.9122539
+
+      0.9162952
+
+      0.9185702
+
+      0.9204453
+
+      0.9224746
+
+      0.9246432
+
+      0.9279312
+
+      0.9301069
+
+      0.9325134
+
+      0.9349257
+
+      0.9369889
+
+      0.9387861
+
+      0.9414195
+
+      0.9445283
+
+      0.9476672
+
+      0.950572
+
+      0.9526101
+
+      0.9546397
+
+      0.9573129
+
+      0.9610965
+
+      0.9633905
+
+      0.965436
+
+      0.9675971
+
+      0.9694343
+
+      0.971426
+
+      0.9747772
+
+      0.9779089
+
+      0.9813077
+
+      0.9842463
+
+      0.9863256
+
+      0.9892026
+
+      0.9912211
+
+      0.9937506
+
+      0.9966813
+
+      1.00005'
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 156}
+      m_SelectedIDs: 59a4ffad
+      m_LastClickedID: -1375755175
+      m_ExpandedIDs: 6756348ec42a48ef621c7f47c4bdec65ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+    m_SelectedOption: 0
+  m_EditModeTestListGUI:
+    m_Window: {fileID: 14}
+    m_NewResultList:
+    - id: 1000
+      uniqueId: '[Matching your Bases][suite]'
+      name: Matching your Bases
+      fullName: Matching your Bases
+      resultStatus: 0
+      duration: 0
+      messages: 
+      output: 
+      stacktrace: 
+      notRunnable: 0
+      ignoredOrSkipped: 0
+      description: 
+      isSuite: 1
+      categories: []
+      parentId: 
+      parentUniqueId: 
+    m_ResultText: 
+    m_ResultStacktrace: 
+    m_TestListState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 621c7f47ffffff7f
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString: 
+    m_TestRunnerUIFilter:
+      PassedHidden: 0
+      FailedHidden: 0
+      NotRunHidden: 0
+      m_SearchString: 
+      selectedCategoryMask: 0
+      availableCategories:
+      - Uncategorized
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 761
+    width: 960
+    height: 230
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Tests
+    m_Globs: []
+    m_OriginalText: 
+    m_ImportLogFlags: 0
+    m_FilterByTypeIntersection: 0
+  m_ViewMode: 1
+  m_StartGridSize: 89
+  m_LastFolders:
+  - Assets/Tests
+  m_LastFoldersGridSize: 89
+  m_LastProjectPath: C:\Users\owenb\Matching your Bases
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: b45b0000
+    m_LastClickedID: 23476
+    m_ExpandedIDs: 00000000a85b000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 7}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000a85b0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
+    m_ExpandedInstanceIDs: c62300009c6c000000000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 7}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 89
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 207
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1446
+    y: 73
+    width: 473
+    height: 918
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_InspectorMode: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 73
+    width: 327
+    height: 667
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 840fffffd60fffff5411ffff6611ffff7811ffff9011ffffac11ffffc811ffffd011fffffa11ffff2012ffffb012ffff0213fffff41effff5220ffffa420ffff2e23ffffba23ffff0c24fffffe31ffff6632ffffb832ffff6234ffffce34ffff2035ffff2e37ffff9e37fffff037ffff9e3affffcc3bffff1e3cffffa83effff2848ffff7a48ffff144bffff9c4effffee4effff9c51fffffc52ffff4e53ffffe855ffff2257ffff7457ffff3459ffff8c59ffffde59ffff685cffffe65fffff3860ffffc262fffff463ffff4664ffffd066ffff5e68ffffb068ffff3a6bffff886cffffda6cffff646fffffe670ffff3871ffffd673ffff127fffffa47ffffff67fffff8082fffff885ffffaa89ffff068dffff268effff788effffd292ffff7c94ffffce94ffff5897ffff9298ffffe898ffff8099ffff229bffff1c9cffff5c9dffffae9dffff64a4ffffcca5ffff6ea7ffffdaa8ffff5ea9ffffdca9ffff2eaaffff00adffff3eafffffecafffff3eb0fffffcb2ffff3ab4ffffbab5ffff4cb6ffff9eb6ffff8ab8ffffb4b9ffff06baffff08bdffff6cbdffffd0beffffb0bfffff2cc0ffff7ec0ffff80c3ffff0cc6ffffcec6ffff20c7ffffd2c9ffff04cbffff56cbffffb4cdffff2cceffffd4cfffffc0d0ffff12d3ffff90d4ffffe2d4ffff40d7ffff82d9ffffd4d9ffff18dcffff1adfffffc6dfffff18e0ffff5ce2ffffaee3ffff00e4ffff16e6ffffa0e7fffff2e7ffff02eaffff7aeaffffcceaffff78ecfffff4ecffff46edffff42efffffaaeffffffcefffffbef1ffff7cf6ffffcef6ffff8af8ffff2efbffff645c000016650000746800003a6e00008a6e0000a47900000a7a0000c4820000048300005e8e0000de8e00007e930000fc9300007a980000f6980000069a0000ae9b0000a6b5000008bc00003aca000042cc0000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 6}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 4c969a2b90040154d917609493e03593
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 328
+    y: 73
+    width: 1116
+    height: 667
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData:
+    - dockPosition: 0
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: -166, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 3
+      id: Tool Settings
+      index: 0
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: -141, y: 149}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 1
+      id: unity-grid-and-snap-toolbar
+      index: 1
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-scene-view-toolbar
+      index: 0
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-toolbar__top
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 1
+      id: unity-search-toolbar
+      index: 1
+      layout: 1
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-container--left
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-transform-toolbar
+      index: 0
+      layout: 2
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-container--left
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 0, y: 197}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: unity-component-tools
+      index: 1
+      layout: 2
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 0
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 67.5, y: 86}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Orientation
+      index: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Light Settings
+      index: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Camera
+      index: 1
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Cloth Constraints
+      index: 2
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Cloth Collisions
+      index: 3
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Navmesh Display
+      index: 4
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Agent Display
+      index: 5
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Obstacle Display
+      index: 6
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Occlusion Culling
+      index: 4
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Physics Debugger
+      index: 5
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Scene Visibility
+      index: 6
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Particles
+      index: 7
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Tilemap
+      index: 11
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Tilemap Palette Helper
+      index: 12
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 1
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: AINavigationOverlay
+      index: 10
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/TrailRenderer
+      index: 8
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Open Tile Palette
+      index: 0
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Scene View/Tilemap Focus
+      index: 1
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: APV Overlay
+      index: 12
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    - dockPosition: 1
+      containerId: overlay-container--right
+      floating: 0
+      collapsed: 0
+      displayed: 0
+      snapOffset: {x: 48, y: 48}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
+      id: Cinemachine Tool Settings
+      index: 13
+      layout: 4
+      size: {x: 0, y: 0}
+      sizeOverriden: 0
+    m_OverlaysVisible: 1
+  m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
+  m_Gizmos: 1
+  m_OverrideSceneCullingMask: 6917529027641081856
+  m_SceneIsLit: 1
+  m_SceneLighting: 1
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_PlayAudio: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 528.8175, y: 253.77798, z: -4.0274334}
+    speed: 2
+    m_Value: {x: 528.8175, y: 253.77798, z: -4.0274334}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_DoValidateTrueMetals: 0
+  m_SceneViewState:
+    m_AlwaysRefresh: 0
+    showFog: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+    showVisualEffectGraphs: 1
+    m_FxEnabled: 0
+  m_Grid:
+    xGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 0, y: 0}
+    yGrid:
+      m_Fade:
+        m_Target: 0
+        speed: 2
+        m_Value: 0
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    zGrid:
+      m_Fade:
+        m_Target: 1
+        speed: 2
+        m_Value: 1
+      m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
+      m_Pivot: {x: 0, y: 0, z: 0}
+      m_Size: {x: 1, y: 1}
+    m_ShowGrid: 1
+    m_GridAxis: 1
+    m_gridOpacity: 0.5
+  m_Rotation:
+    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
+  m_Size:
+    m_Target: 454.28955
+    speed: 2
+    m_Value: 454.28955
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_CameraSettings:
+    m_Speed: 1.0005
+    m_SpeedNormalized: 0.49999997
+    m_SpeedMin: 0.001
+    m_SpeedMax: 2
+    m_EasingEnabled: 1
+    m_EasingDuration: 0.4
+    m_AccelerationEnabled: 1
+    m_FieldOfViewHorizontalOrVertical: 60
+    m_NearClip: 0.03
+    m_FarClip: 10000
+    m_DynamicClip: 1
+    m_OcclusionCulling: 0
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_SceneVisActive: 1
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 328
+    y: 73
+    width: 1116
+    height: 667
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
+  m_SerializedViewNames: []
+  m_SerializedViewValues: []
+  m_PlayModeViewName: GameView
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+  m_TargetSize: {x: 1116, y: 646}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_EnterPlayModeBehavior: 0
+  m_UseMipMap: 0
+  m_VSyncEnabled: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -558
+    m_HBaseRangeMax: 558
+    m_VBaseRangeMin: -323
+    m_VBaseRangeMax: 323
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 21
+      width: 1116
+      height: 646
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 558, y: 323}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -558
+      y: -323
+      width: 1116
+      height: 646
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1116, y: 667}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_XRRenderMode: 0
+  m_RenderTexture: {fileID: 0}
+--- !u!114 &20
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 761
+    width: 960
+    height: 230
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_OverlaysVisible: 1
